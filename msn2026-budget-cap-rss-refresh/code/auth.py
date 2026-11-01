@@ -1,15 +1,3 @@
-"""Information-theoretic Wegman--Carter authentication for BOLT-RSS v3.
-
-The universal family is polynomial evaluation over GF(2^128), represented
-with the irreducible polynomial x^128+x^7+x^2+x+1.  A session consumes a
-fresh 128-bit field key and a fresh 128-bit one-time pad.  Every 256-bit
-string is valid authentication material, so 256 extracted uniform bits can
-replenish the next session without rejection sampling or a computational KDF.
-
-For a message encoded as B field coefficients, a nonzero difference
-polynomial has at most B roots, hence the substitution-forgery probability
-is at most B/2^128.
-"""
 from __future__ import annotations
 
 import os
