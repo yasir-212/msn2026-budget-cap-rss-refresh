@@ -1,21 +1,3 @@
-"""BOLT-RSS precommitted leakage-cap policies.
-
-A public, independently generated protocol-calibration library records complete
-Rayleigh sessions: pilot statistic z, Cascade convergence C, and source-dependent
-transcript length L.  At runtime, only the pilot statistic z is used to select a
-local calibration neighbourhood.  The proposed cap maximizes
-
-    J_H(Lambda | z) = G_H(Lambda | z) * ell_app,H(Lambda),
-    G_H = Pr{C=1 and L<=Lambda | z},
-
-estimated directly from the local protocol records.  The q99 baseline uses the
-same neighbours and the 99th percentile of L.  No independence assumption
-between convergence and transcript length is made.
-
-The calibration affects performance only.  Security charges Lambda+1 on every
-accepted branch and aborts before any source-dependent message would exceed the
-precommitted cap.
-"""
 from __future__ import annotations
 import json, math
 from dataclasses import dataclass
