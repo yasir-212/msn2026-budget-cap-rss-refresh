@@ -1,26 +1,3 @@
-"""Measurement-replay interface: run the BOLT-RSS qualification + refresh on recorded RSS.
-
-Input CSV (one row per probe exchange), columns:
-    t_s, alice_rssi_dbm, bob_rssi_dbm[, eve_rssi_dbm]
-Alice's column is what Alice measured on Bob's probe, Bob's column what Bob
-measured on Alice's probe (same exchange).  An optional survey CSV with columns
-alice_rssi_dbm, probe_rssi_dbm, position_id provides Eve-certificate data.
-
-Pipeline (all steps fail closed):
- 1. Qualification segment (first --qual fraction of rows):
-    - independence: Ljung-Box test on Alice's linear power; the block spacing is
-      increased (thinning) until the test passes at level 1%, else abort;
-    - scale: exact chi-square interval for Alice's mean power at 1-eps_src,
-      widened by the RSSI reporting step (Proposition 1);
-    - Eve: Kendall-tau/Hoeffding upper bound per surveyed position, union bound
-      over positions at total eps_E (or a user-supplied --rho-ae bound).
- 2. Refresh sessions on the remaining rows, in windows of N thinned blocks,
-    using the default (or a user-supplied) calibration library and policy.
-Outputs a JSON report with certificates, per-session caps, acceptance and rates.
-
-Example:
-    python measured_replay.py trace.csv --survey survey.csv --policy bolt_lcb
-"""
 from __future__ import annotations
 import argparse, json, math
 from pathlib import Path
