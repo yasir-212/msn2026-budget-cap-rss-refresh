@@ -1,15 +1,3 @@
-"""Repeated cross-validated holdout, distribution shift and library-size study (v4).
-
-Replaces the single 70/30 split at (H=2, rho_AE=0.2) of the submission:
- * 20 repetitions x 5-fold CV over the 840-session calibration library, for
-   both resolutions and all seven Eve certificates; every policy is scored on
-   exactly the same held-out sessions with the same neighbourhood code.
- * acceptance-score coverage: predicted score at the chosen cap vs. realized
-   reconciliation acceptance (C=1 and Lreq<=cap) on held-out sessions.
- * low->high and high->low reciprocity transfer.
- * library-size curve with 50 random subsamples per size.
-Outcomes are exact replays (validated in validate_live_v4.py).
-"""
 from __future__ import annotations
 import json
 from pathlib import Path
