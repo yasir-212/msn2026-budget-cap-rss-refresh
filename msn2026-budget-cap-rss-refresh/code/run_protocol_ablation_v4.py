@@ -1,12 +1,3 @@
-"""Protocol-parameter ablations requiring new calibration libraries (v4).
-
-For each configuration a fresh 840-record (or 1260 for H_max=3) calibration
-library is built with the same construction and seed ranges, and the policies
-are evaluated on new evaluation sessions (rho_AB in {0.99,0.995,0.9975},
-20 trials, all seven Eve certificates).  One parameter changes at a time:
-pilot length N_P, block length N (N_P = N/16), pilot CP confidence,
-confirmation-tag length, and the resolution set H_max=3.
-"""
 from __future__ import annotations
 import json, sys
 from concurrent.futures import ProcessPoolExecutor
