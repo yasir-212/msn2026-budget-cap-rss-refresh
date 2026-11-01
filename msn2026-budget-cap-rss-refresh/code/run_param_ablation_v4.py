@@ -1,10 +1,3 @@
-"""Selection-parameter ablations on the main-grid sessions (exact replay, v4).
-
-Varies one parameter at a time around the pre-specified configuration
-(K=80, Gaussian kernel, alpha=0.05, uniform-over-caps Hoeffding LCB,
-eps_PA=2^-64) and reports grid/feasible means for BOLT, BOLT-LCB and q99.
-The pre-specified values are NOT re-tuned on these results.
-"""
 from __future__ import annotations
 import json
 from pathlib import Path
