@@ -1,26 +1,3 @@
-"""Exact model-conditional entropy tools for BOLT-RSS v3.
-
-Certified source model
-----------------------
-For each independent diversity block, H_A~CN(0,1),
-
-    H_B = rho_AB H_A + sqrt(1-rho_AB^2) N_B,
-    E   = a H_A + N_E,
-
-where N_B~CN(0,1), N_E~CN(0,Sigma_N), and the noises are independent of
-H_A and of each other.  Sigma_N may be fully correlated and must be Hermitian
-positive definite.  Eve is granted the *entire continuous vector* E.
-
-A Gaussian sufficient statistic reduces E to a scalar observation with
-posterior SNR s_E=a^H Sigma_N^{-1} a and equivalent squared correlation
-c_eff=s_E/(1+s_E).  For X=|H_A|^2 and Y=|H_E,eff|^2, the conditional law is a
-noncentral chi-square, which yields a one-dimensional exact average guessing
-probability for any fixed radial power quantizer.
-
-The theorem assumes externally calibrated RSS scale so Alice's normalized
-power follows Exp(1).  The live protocol never estimates this scale from the
-payload; absence of a scale/source certificate causes fail-closed output.
-"""
 from __future__ import annotations
 
 from dataclasses import asdict, dataclass
