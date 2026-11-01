@@ -1,20 +1,3 @@
-"""How the external certificates are obtained and validated (revision v4).
-
-A. RSS-scale certificate from M qualification samples (exact chi-square
-   interval); empirical coverage with i.i.d. samples, with temporally
-   correlated (Jakes) samples, and after decorrelation thinning; certified
-   entropy and end-to-end rate versus qualification effort (M, eps_src).
-B. Survey-based Eve certificate: a trusted probe at S candidate Eve positions
-   records M paired RSS samples with Alice.  A distribution-free Kendall-tau
-   upper confidence bound (Hoeffding for U-statistics) is mapped to an upper
-   bound on |rho_AE| through the certified Rayleigh pair law; union bound over
-   positions.  Empirical coverage; certified rate versus M.
-C. Guard-zone Eve certificate: isotropic (Clarke) envelope
-   sup_{d>=d_min}|J0(2 pi d/lambda)|, and a von Mises non-isotropic
-   counterexample showing when the envelope is NOT a valid certificate.
-D. Misspecification: secrecy bound when the true Eve correlation exceeds the
-   certified one.
-"""
 from __future__ import annotations
 import json, math
 from pathlib import Path
