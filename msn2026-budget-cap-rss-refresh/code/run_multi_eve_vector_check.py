@@ -1,4 +1,3 @@
-"""Direct vector Monte-Carlo validation of the colluding-Eve scalar reduction."""
 from __future__ import annotations
 import json, math
 from pathlib import Path
