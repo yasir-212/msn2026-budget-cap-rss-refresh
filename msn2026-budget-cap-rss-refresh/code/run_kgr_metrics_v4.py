@@ -1,19 +1,3 @@
-"""Standard PLKG key-rate metrics and source benchmarks (revision v4).
-
-Reports, on the same live sessions as the main grid:
-  * certified key rate in secret bits per channel use (cu), where one diversity
-    block costs two channel uses (Alice->Bob and Bob->Alice probe, TDD RSS);
-  * the same rate when every public-discussion bit is also charged as a
-    channel use at spectral efficiency eta (eta=1 conservative);
-  * conventional (non-certified) rates on the same sessions, so that the
-    number can be placed next to KGRs reported in the PLKG literature:
-      R_quant  : quantizer output bits (no reconciliation)
-      R_recon  : reconciled bits minus *realized* public bits (Eve-agnostic)
-      R_realEve: Eve min-entropy minus *realized* transcript (not abort-aware)
-  * asymptotic one-way secret-key rate of the same quantized RSS source,
-    I(Q_A;Q_B) - I(Q_A;Y_E)  (Csiszar-Korner), and the CSI-level conditional
-    mutual-information upper benchmark I(H_A;H_B|E).
-"""
 from __future__ import annotations
 import json, math
 from functools import lru_cache
