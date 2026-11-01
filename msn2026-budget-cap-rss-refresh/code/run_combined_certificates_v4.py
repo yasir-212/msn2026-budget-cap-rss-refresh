@@ -1,11 +1,3 @@
-"""Rate with BOTH qualification certificates (scale + survey Eve), Table II row.
-
-Scale: exact chi-square interval from M_q Alice samples at eps_src = 1e-9.
-Eve:   survey Kendall-tau bound (S = 25 positions x 2 probe directions, M_s samples,
-       eps_E = 1e-6), true per-link |rho_AE| equal to the cell's nominal value; the two
-       links are combined through s_E (Lemma 1).
-Rates are BOLT replays on the main-grid sessions (bit/block and bit/channel use).
-"""
 from __future__ import annotations
 import json, math
 from pathlib import Path
