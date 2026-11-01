@@ -1,31 +1,3 @@
-"""Unified cap/resolution selection policies for BOLT-RSS (revision v4).
-
-All policies share one implementation of the calibration neighbourhood and
-one candidate-cap set, so BOLT and BOLT-LCB differ *only* in the acceptance
-score that multiplies the application-key length.
-
-Calibration record (per resolution H):
-    z   : pilot one-sided BMR upper bound
-    C   : 1 if uncapped distributed Cascade reached a confirmation match
-    Lreq: smallest hard cap under which that run passes every pre-transmission
-          budget check (worst-case reservations included); a run under cap
-          Lambda accepts iff C=1 and Lreq<=Lambda (exact, see cascade.py)
-
-Policies (chosen before any payload-dependent message):
-    bolt        argmax_Lambda  Ghat(Lambda|z) * ell_app(Lambda)
-    bolt_lcb    argmax_Lambda  Glow(Lambda|z) * ell_app(Lambda)
-    qXX         Lambda = weighted XX-th percentile of local Lreq
-    fixedcap    one z-independent cap per (H, h) from the whole library
-Candidate caps for bolt and bolt_lcb: every distinct Lreq value in the local
-neighbourhood (both objectives are step functions that change only there).
-
-Lower confidence bounds for bolt_lcb (weights w fixed given {z_i}):
-    'hoeffding'         pointwise weighted Hoeffding (original Eq. 12)
-    'hoeffding_uniform' weighted Hoeffding + Bonferroni over the m candidate
-                        caps -> simultaneous (1-alpha) bound, valid for the
-                        data-dependent argmax (default in the revision)
-None of these scores enters the secrecy accounting.
-"""
 from __future__ import annotations
 
 from dataclasses import dataclass, field
