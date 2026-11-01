@@ -1,11 +1,3 @@
-"""Revision v4 main grid: every policy on identical sessions (exact replay).
-
-Builds/loads evaluation traces (same Alice/Bob realizations, pilots and public
-seeds as the submitted sweep: seed = 55e6 + round(1e4 rho_AB)*1e3 + t) and
-evaluates BOLT, BOLT-LCB (uniform and pointwise), q95, q99, the z-independent
-fixed cap, and the hindsight oracle, both with adaptive H and with H fixed at 2.
-Outputs results_main_grid_v4.json (+ per-session records).
-"""
 from __future__ import annotations
 import json, sys
 from concurrent.futures import ProcessPoolExecutor
