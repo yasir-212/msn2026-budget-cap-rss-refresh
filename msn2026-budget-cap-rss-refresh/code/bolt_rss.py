@@ -1,13 +1,3 @@
-"""BOLT-RSS: budget-optimal abort-aware authenticated RSS key refresh.
-
-The certified path is intentionally explicit and narrow.  It requires an
-external source/scale certificate and an external Gaussian Eve certificate.
-The live session does not use Eve samples to size the key.  An independent
-pilot selects a quantizer and a hard source-dependent public-discussion cap;
-Cascade enforces that cap *during* the interaction.  Security subtracts the
-support of all variable-length transcripts up to the cap, not a realized
-payload-dependent length.
-"""
 from __future__ import annotations
 
 from dataclasses import dataclass, asdict
