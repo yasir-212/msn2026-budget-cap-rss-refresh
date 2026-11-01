@@ -1,18 +1,3 @@
-"""Security accounting for BOLT-RSS v3.
-
-The core guarantee is abort-aware.  A virtual extractor is defined for every
-payload/transcript branch.  The real protocol discards its output on abort.
-Thus data processing yields a sub-normalized/composable statement
-
-    p_acc * Delta(K E Pi | acc, U_ell x E Pi | acc) <= eps_PA,
-
-provided the source min-entropy is bounded before payload discussion and the
-complete source-dependent public transcript belongs to an alphabet with a
-known precommitted support size.  For an interactive binary transcript whose
-source-dependent encoding length never exceeds Lambda bits, the number of
-possible variable-length strings is at most 2^(Lambda+1)-1; we therefore
-subtract Lambda+1 bits unless a fixed-length encoding is explicitly used.
-"""
 from __future__ import annotations
 
 import math
