@@ -1,4 +1,3 @@
-"""Small helpers to evaluate policies for arbitrary certified entropies (exact replay)."""
 from __future__ import annotations
 import numpy as np
 from bolt_policy import CalibrationLibrary, PolicyParams, select, outcome
