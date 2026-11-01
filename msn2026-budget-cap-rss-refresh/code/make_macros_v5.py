@@ -1,5 +1,3 @@
-"""Camera-ready (minimal-change) macros: the submitted paper's macro names, recomputed
-from the unified v4 results, plus the compact tables used in the camera-ready paper."""
 import json
 from pathlib import Path
 import numpy as np
