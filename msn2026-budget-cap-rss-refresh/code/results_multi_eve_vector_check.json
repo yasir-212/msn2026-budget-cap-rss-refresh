@@ -1,0 +1,25 @@
+{
+  "version": "multi-eve-vector-check-v1",
+  "H": 2,
+  "c_E": 0.36,
+  "s_E": 0.5625,
+  "scalar_prediction_p_guess": 0.3336763221042909,
+  "vector_mc": {
+    "1": {
+      "p_guess": 0.3338818733482517,
+      "mc_standard_error": 0.00018424525490343883,
+      "posterior_snr": 0.5625
+    },
+    "2": {
+      "p_guess": 0.3335406724036442,
+      "mc_standard_error": 0.00018201772685426157,
+      "posterior_snr": 0.5625000000000001
+    },
+    "4": {
+      "p_guess": 0.3340411212296458,
+      "mc_standard_error": 0.00018383761886055266,
+      "posterior_snr": 0.5625000000000002
+    }
+  },
+  "max_abs_discrepancy": 0.0003647991253549199
+}

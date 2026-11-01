@@ -1,0 +1,7582 @@
+{
+  "version": "bolt-rss-protocol-cal-v1",
+  "n_blocks": 8192,
+  "n_pilot": 512,
+  "H_values": [
+    1,
+    2
+  ],
+  "rho_ab_grid": [
+    0.99,
+    0.9925,
+    0.995,
+    0.996,
+    0.9975,
+    0.9985,
+    0.999
+  ],
+  "trials_per_rho": 60,
+  "records": [
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.024392171059265194,
+      "pilot_bmr": 0.0078125,
+      "raw_bmr": 0.021614583333333333,
+      "leak_bits": 2815,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.027390219478416078,
+      "pilot_bmr": 0.009765625,
+      "raw_bmr": 0.020833333333333332,
+      "leak_bits": 2568,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.027390219478416078,
+      "pilot_bmr": 0.009765625,
+      "raw_bmr": 0.017578125,
+      "leak_bits": 2340,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.030297806648431104,
+      "pilot_bmr": 0.01171875,
+      "raw_bmr": 0.027734375,
+      "leak_bits": 3389,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.030297806648431104,
+      "pilot_bmr": 0.01171875,
+      "raw_bmr": 0.022005208333333335,
+      "leak_bits": 2716,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.030297806648431104,
+      "pilot_bmr": 0.01171875,
+      "raw_bmr": 0.022526041666666666,
+      "leak_bits": 2792,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.030297806648431104,
+      "pilot_bmr": 0.01171875,
+      "raw_bmr": 0.022395833333333334,
+      "leak_bits": 2748,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.0331340089990365,
+      "pilot_bmr": 0.013671875,
+      "raw_bmr": 0.024739583333333332,
+      "leak_bits": 2990,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.0331340089990365,
+      "pilot_bmr": 0.013671875,
+      "raw_bmr": 0.025390625,
+      "leak_bits": 3006,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0331340089990365,
+      "pilot_bmr": 0.013671875,
+      "raw_bmr": 0.019791666666666666,
+      "leak_bits": 2859,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0331340089990365,
+      "pilot_bmr": 0.013671875,
+      "raw_bmr": 0.019791666666666666,
+      "leak_bits": 2598,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0331340089990365,
+      "pilot_bmr": 0.013671875,
+      "raw_bmr": 0.020703125,
+      "leak_bits": 2933,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0331340089990365,
+      "pilot_bmr": 0.013671875,
+      "raw_bmr": 0.017708333333333333,
+      "leak_bits": 2476,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.03591195981116206,
+      "pilot_bmr": 0.015625,
+      "raw_bmr": 0.032942708333333334,
+      "leak_bits": 3622,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03591195981116206,
+      "pilot_bmr": 0.015625,
+      "raw_bmr": 0.030989583333333334,
+      "leak_bits": 3476,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03591195981116206,
+      "pilot_bmr": 0.015625,
+      "raw_bmr": 0.022916666666666665,
+      "leak_bits": 2894,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03591195981116206,
+      "pilot_bmr": 0.015625,
+      "raw_bmr": 0.028125,
+      "leak_bits": 3300,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03591195981116206,
+      "pilot_bmr": 0.015625,
+      "raw_bmr": 0.02109375,
+      "leak_bits": 2760,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03591195981116206,
+      "pilot_bmr": 0.015625,
+      "raw_bmr": 0.018619791666666666,
+      "leak_bits": 2580,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03591195981116206,
+      "pilot_bmr": 0.015625,
+      "raw_bmr": 0.021744791666666666,
+      "leak_bits": 2784,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03591195981116206,
+      "pilot_bmr": 0.015625,
+      "raw_bmr": 0.022395833333333334,
+      "leak_bits": 3111,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03864116149480025,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.028645833333333332,
+      "leak_bits": 3334,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03864116149480025,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.025520833333333333,
+      "leak_bits": 3080,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03864116149480025,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.02890625,
+      "leak_bits": 3374,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03864116149480025,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.023697916666666666,
+      "leak_bits": 2990,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03864116149480025,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.023958333333333335,
+      "leak_bits": 2972,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03864116149480025,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.019401041666666667,
+      "leak_bits": 2664,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03864116149480025,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.019661458333333333,
+      "leak_bits": 2694,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03864116149480025,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.019921875,
+      "leak_bits": 2698,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03864116149480025,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.023958333333333335,
+      "leak_bits": 3283,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.03619791666666667,
+      "leak_bits": 3874,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.03203125,
+      "leak_bits": 3596,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.025260416666666667,
+      "leak_bits": 3381,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.023567708333333333,
+      "leak_bits": 2992,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.025,
+      "leak_bits": 3373,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.026822916666666665,
+      "leak_bits": 3218,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.022395833333333334,
+      "leak_bits": 2922,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.021223958333333334,
+      "leak_bits": 2842,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.020703125,
+      "leak_bits": 2790,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.022005208333333335,
+      "leak_bits": 2864,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.022786458333333332,
+      "leak_bits": 2934,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.018880208333333332,
+      "leak_bits": 2664,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.01953125,
+      "leak_bits": 2720,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.024739583333333332,
+      "leak_bits": 3086,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.021484375,
+      "leak_bits": 2834,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.019791666666666666,
+      "leak_bits": 2732,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.020963541666666665,
+      "leak_bits": 2820,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04132875490106507,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.023697916666666666,
+      "leak_bits": 3279,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.043229166666666666,
+      "leak_bits": 4372,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.03893229166666667,
+      "leak_bits": 4094,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.04505208333333333,
+      "leak_bits": 4759,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.033984375,
+      "leak_bits": 3732,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.023958333333333335,
+      "leak_bits": 3050,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.02734375,
+      "leak_bits": 3278,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.027213541666666667,
+      "leak_bits": 3286,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.024739583333333332,
+      "leak_bits": 3090,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.025,
+      "leak_bits": 3130,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.019791666666666666,
+      "leak_bits": 2762,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.021875,
+      "leak_bits": 2932,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.020963541666666665,
+      "leak_bits": 2872,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.02109375,
+      "leak_bits": 2860,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.020572916666666666,
+      "leak_bits": 2820,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.020703125,
+      "leak_bits": 2848,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.021484375,
+      "leak_bits": 2896,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.016796875,
+      "leak_bits": 2588,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.022395833333333334,
+      "leak_bits": 3243,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04398026897555724,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.021614583333333333,
+      "leak_bits": 2920,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.04388020833333333,
+      "leak_bits": 4420,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.03203125,
+      "leak_bits": 3630,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.035546875,
+      "leak_bits": 4189,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.03307291666666667,
+      "leak_bits": 4003,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.026432291666666666,
+      "leak_bits": 3256,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.030989583333333334,
+      "leak_bits": 3875,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.026302083333333334,
+      "leak_bits": 3250,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.024739583333333332,
+      "leak_bits": 3146,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.025911458333333335,
+      "leak_bits": 3216,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.027994791666666668,
+      "leak_bits": 3352,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.031119791666666667,
+      "leak_bits": 3552,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.025390625,
+      "leak_bits": 3194,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.024609375,
+      "leak_bits": 3134,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.025520833333333333,
+      "leak_bits": 3192,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.020833333333333332,
+      "leak_bits": 2882,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.018098958333333335,
+      "leak_bits": 2730,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.023958333333333335,
+      "leak_bits": 3098,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.022786458333333332,
+      "leak_bits": 3018,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.020833333333333332,
+      "leak_bits": 2886,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.019661458333333333,
+      "leak_bits": 2802,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04660008940069554,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.020833333333333332,
+      "leak_bits": 2890,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.040234375,
+      "leak_bits": 4541,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.03815104166666667,
+      "leak_bits": 4082,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.030078125,
+      "leak_bits": 3550,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.03046875,
+      "leak_bits": 3602,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.031119791666666667,
+      "leak_bits": 3604,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.034375,
+      "leak_bits": 3814,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.03125,
+      "leak_bits": 3638,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.03424479166666667,
+      "leak_bits": 3826,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.0234375,
+      "leak_bits": 3122,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.028385416666666666,
+      "leak_bits": 3436,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.027864583333333335,
+      "leak_bits": 3420,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.024609375,
+      "leak_bits": 3206,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.024479166666666666,
+      "leak_bits": 3202,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.022135416666666668,
+      "leak_bits": 3050,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.025,
+      "leak_bits": 3252,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.020182291666666668,
+      "leak_bits": 3253,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04919176521765918,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.021744791666666666,
+      "leak_bits": 3018,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.03828125,
+      "leak_bits": 4156,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.03268229166666667,
+      "leak_bits": 3804,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.030729166666666665,
+      "leak_bits": 4015,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.034505208333333336,
+      "leak_bits": 3902,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.024609375,
+      "leak_bits": 3276,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.02578125,
+      "leak_bits": 3348,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.024739583333333332,
+      "leak_bits": 3639,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.0234375,
+      "leak_bits": 3212,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.027864583333333335,
+      "leak_bits": 3502,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.019921875,
+      "leak_bits": 2992,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.0203125,
+      "leak_bits": 3024,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.020963541666666665,
+      "leak_bits": 3062,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.021484375,
+      "leak_bits": 3076,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.021744791666666666,
+      "leak_bits": 3108,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.051758217078736936,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.022916666666666665,
+      "leak_bits": 3198,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.048177083333333336,
+      "leak_bits": 4856,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.04739583333333333,
+      "leak_bits": 4774,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.047135416666666666,
+      "leak_bits": 4768,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.03671875,
+      "leak_bits": 4140,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.03216145833333333,
+      "leak_bits": 3834,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.03333333333333333,
+      "leak_bits": 3908,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.035416666666666666,
+      "leak_bits": 4032,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.033854166666666664,
+      "leak_bits": 3910,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.026822916666666665,
+      "leak_bits": 3512,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.025,
+      "leak_bits": 3416,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.024609375,
+      "leak_bits": 3364,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.030338541666666666,
+      "leak_bits": 3716,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.023697916666666666,
+      "leak_bits": 3298,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.019921875,
+      "leak_bits": 3090,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.020442708333333334,
+      "leak_bits": 3126,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.020182291666666668,
+      "leak_bits": 3102,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05430188317497165,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.01875,
+      "leak_bits": 3024,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.047135416666666666,
+      "leak_bits": 4800,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.04348958333333333,
+      "leak_bits": 4925,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.04244791666666667,
+      "leak_bits": 4488,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.042317708333333336,
+      "leak_bits": 4454,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.03424479166666667,
+      "leak_bits": 3984,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.0328125,
+      "leak_bits": 3894,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.032421875,
+      "leak_bits": 3840,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.02890625,
+      "leak_bits": 4019,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.030989583333333334,
+      "leak_bits": 3776,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.025,
+      "leak_bits": 3394,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05682482423773548,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.024739583333333332,
+      "leak_bits": 3396,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.04544270833333333,
+      "leak_bits": 4692,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.041666666666666664,
+      "leak_bits": 4524,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.04895833333333333,
+      "leak_bits": 4964,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.040625,
+      "leak_bits": 4843,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.03997395833333333,
+      "leak_bits": 4432,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.0328125,
+      "leak_bits": 3964,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.03333333333333333,
+      "leak_bits": 4004,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.03203125,
+      "leak_bits": 3952,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.03138020833333333,
+      "leak_bits": 3870,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.030859375,
+      "leak_bits": 3834,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.022916666666666665,
+      "leak_bits": 3386,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.026822916666666665,
+      "leak_bits": 3620,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05932880083368002,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.0234375,
+      "leak_bits": 3396,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.046614583333333334,
+      "leak_bits": 5227,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.041666666666666664,
+      "leak_bits": 4540,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.044140625,
+      "leak_bits": 4610,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.04700520833333333,
+      "leak_bits": 4854,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.05078125,
+      "leak_bits": 5080,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.04309895833333333,
+      "leak_bits": 4644,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.042578125,
+      "leak_bits": 4554,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.041276041666666666,
+      "leak_bits": 4901,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.04205729166666667,
+      "leak_bits": 4548,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.04296875,
+      "leak_bits": 4590,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.03229166666666667,
+      "leak_bits": 3944,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.03502604166666667,
+      "leak_bits": 4112,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.035546875,
+      "leak_bits": 4092,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.03203125,
+      "leak_bits": 3904,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.032942708333333334,
+      "leak_bits": 3960,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.033463541666666666,
+      "leak_bits": 3962,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.026041666666666668,
+      "leak_bits": 3586,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.025390625,
+      "leak_bits": 3528,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.026302083333333334,
+      "leak_bits": 3554,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.022395833333333334,
+      "leak_bits": 3386,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.061815331402408004,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.024088541666666668,
+      "leak_bits": 3450,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.05130208333333333,
+      "leak_bits": 5615,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.04895833333333333,
+      "leak_bits": 5058,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.049088541666666666,
+      "leak_bits": 5062,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.037109375,
+      "leak_bits": 4328,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.04596354166666667,
+      "leak_bits": 5285,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.04375,
+      "leak_bits": 4736,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.047526041666666664,
+      "leak_bits": 4952,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.041666666666666664,
+      "leak_bits": 5009,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.040364583333333336,
+      "leak_bits": 4516,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.035546875,
+      "leak_bits": 4244,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.03138020833333333,
+      "leak_bits": 3976,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.033203125,
+      "leak_bits": 4128,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.03333333333333333,
+      "leak_bits": 4140,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.034765625,
+      "leak_bits": 4206,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.030729166666666665,
+      "leak_bits": 3972,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.024739583333333332,
+      "leak_bits": 3612,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06428573659884368,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.024088541666666668,
+      "leak_bits": 3550,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.058203125,
+      "leak_bits": 6005,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.050130208333333336,
+      "leak_bits": 5112,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.042317708333333336,
+      "leak_bits": 5061,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.041666666666666664,
+      "leak_bits": 4598,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.04244791666666667,
+      "leak_bits": 4640,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.03333333333333333,
+      "leak_bits": 4126,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.034765625,
+      "leak_bits": 4216,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.03463541666666667,
+      "leak_bits": 4188,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.03138020833333333,
+      "leak_bits": 3994,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.03046875,
+      "leak_bits": 3928,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.03307291666666667,
+      "leak_bits": 4104,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.03307291666666667,
+      "leak_bits": 4112,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.03307291666666667,
+      "leak_bits": 4084,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.03203125,
+      "leak_bits": 4024,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.029296875,
+      "leak_bits": 3888,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06674117369716653,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.024348958333333334,
+      "leak_bits": 3582,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.06918266365224918,
+      "pilot_bmr": 0.041015625,
+      "raw_bmr": 0.05546875,
+      "leak_bits": 5853,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.06918266365224918,
+      "pilot_bmr": 0.041015625,
+      "raw_bmr": 0.047135416666666666,
+      "leak_bits": 4922,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06918266365224918,
+      "pilot_bmr": 0.041015625,
+      "raw_bmr": 0.045703125,
+      "leak_bits": 5239,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06918266365224918,
+      "pilot_bmr": 0.041015625,
+      "raw_bmr": 0.038411458333333336,
+      "leak_bits": 4392,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06918266365224918,
+      "pilot_bmr": 0.041015625,
+      "raw_bmr": 0.04205729166666667,
+      "leak_bits": 4612,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.06263020833333334,
+      "leak_bits": 5910,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.05807291666666667,
+      "leak_bits": 6127,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.06197916666666667,
+      "leak_bits": 5872,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.05221354166666667,
+      "leak_bits": 5340,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.045572916666666664,
+      "leak_bits": 5337,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.046875,
+      "leak_bits": 5002,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.045572916666666664,
+      "leak_bits": 4954,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.04583333333333333,
+      "leak_bits": 4938,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.04401041666666667,
+      "leak_bits": 4858,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.050130208333333336,
+      "leak_bits": 5208,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.046223958333333336,
+      "leak_bits": 4968,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.04453125,
+      "leak_bits": 4918,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.040234375,
+      "leak_bits": 4654,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.040625,
+      "leak_bits": 4650,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.04309895833333333,
+      "leak_bits": 5265,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.036328125,
+      "leak_bits": 4867,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.031510416666666666,
+      "leak_bits": 4120,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07161111264898166,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.033984375,
+      "leak_bits": 4276,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.07083333333333333,
+      "leak_bits": 6362,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.05625,
+      "leak_bits": 5546,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.05559895833333333,
+      "leak_bits": 5891,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.047526041666666664,
+      "leak_bits": 5046,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.044270833333333336,
+      "leak_bits": 4858,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.04765625,
+      "leak_bits": 5056,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.051171875,
+      "leak_bits": 5202,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.046223958333333336,
+      "leak_bits": 4986,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.0421875,
+      "leak_bits": 4750,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.04205729166666667,
+      "leak_bits": 4704,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.040364583333333336,
+      "leak_bits": 4610,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07402732945363591,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.04309895833333333,
+      "leak_bits": 4770,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.06588541666666667,
+      "leak_bits": 6098,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.06471354166666667,
+      "leak_bits": 6034,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.06497395833333333,
+      "leak_bits": 6503,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.05677083333333333,
+      "leak_bits": 6015,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.06002604166666667,
+      "leak_bits": 5732,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.052994791666666666,
+      "leak_bits": 5336,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.05091145833333333,
+      "leak_bits": 5238,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.04895833333333333,
+      "leak_bits": 5100,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.04674479166666667,
+      "leak_bits": 5020,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.043619791666666664,
+      "leak_bits": 4800,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.044140625,
+      "leak_bits": 4848,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.043359375,
+      "leak_bits": 5239,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.03893229166666667,
+      "leak_bits": 4562,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.04010416666666667,
+      "leak_bits": 4608,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07643203952628684,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.03138020833333333,
+      "leak_bits": 4130,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.056640625,
+      "leak_bits": 5644,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.060286458333333334,
+      "leak_bits": 5848,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.04830729166666667,
+      "leak_bits": 5192,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.04609375,
+      "leak_bits": 5050,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.05130208333333333,
+      "leak_bits": 5350,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.046614583333333334,
+      "leak_bits": 5627,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.041276041666666666,
+      "leak_bits": 4832,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.04205729166666667,
+      "leak_bits": 4842,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.04140625,
+      "leak_bits": 4814,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.043359375,
+      "leak_bits": 5425,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.0421875,
+      "leak_bits": 4872,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07882589660454244,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.042578125,
+      "leak_bits": 4900,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.06614583333333333,
+      "leak_bits": 6162,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.066796875,
+      "leak_bits": 6212,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.06432291666666666,
+      "leak_bits": 6080,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.05455729166666667,
+      "leak_bits": 6021,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.045572916666666664,
+      "leak_bits": 5058,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.045703125,
+      "leak_bits": 5062,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.045182291666666666,
+      "leak_bits": 5044,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.04869791666666667,
+      "leak_bits": 5234,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.046484375,
+      "leak_bits": 5096,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.04869791666666667,
+      "leak_bits": 5222,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.04544270833333333,
+      "leak_bits": 5054,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.040625,
+      "leak_bits": 4800,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.04309895833333333,
+      "leak_bits": 4968,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.044140625,
+      "leak_bits": 4944,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.04778645833333333,
+      "leak_bits": 5176,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.040234375,
+      "leak_bits": 4778,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.04114583333333333,
+      "leak_bits": 5313,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.03268229166666667,
+      "leak_bits": 4392,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.03229166666666667,
+      "leak_bits": 4332,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.029427083333333333,
+      "leak_bits": 4200,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.08120949229170574,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.031510416666666666,
+      "leak_bits": 4288,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.06575520833333333,
+      "leak_bits": 6124,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.06692708333333333,
+      "leak_bits": 6683,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.058854166666666666,
+      "leak_bits": 6253,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.05716145833333333,
+      "leak_bits": 5650,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.05572916666666667,
+      "leak_bits": 5632,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.057942708333333336,
+      "leak_bits": 5740,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.057942708333333336,
+      "leak_bits": 5746,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.04544270833333333,
+      "leak_bits": 5060,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.04869791666666667,
+      "leak_bits": 5711,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08358336405447399,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.04375,
+      "leak_bits": 4932,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.06197916666666667,
+      "leak_bits": 6022,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.06731770833333334,
+      "leak_bits": 6833,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.05260416666666667,
+      "leak_bits": 5568,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.055338541666666664,
+      "leak_bits": 5704,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.058203125,
+      "leak_bits": 5820,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.05768229166666667,
+      "leak_bits": 5818,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.058203125,
+      "leak_bits": 6387,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.05963541666666667,
+      "leak_bits": 5906,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.04635416666666667,
+      "leak_bits": 5244,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.048177083333333336,
+      "leak_bits": 5344,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.04700520833333333,
+      "leak_bits": 5274,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.049609375,
+      "leak_bits": 5388,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.04348958333333333,
+      "leak_bits": 5100,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.05078125,
+      "leak_bits": 5458,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.037369791666666666,
+      "leak_bits": 4794,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08594800194148638,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.042317708333333336,
+      "leak_bits": 5038,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.08830385426444477,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.06666666666666667,
+      "leak_bits": 6795,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.08830385426444477,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.06575520833333333,
+      "leak_bits": 6773,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08830385426444477,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.05950520833333333,
+      "leak_bits": 5890,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08830385426444477,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.055989583333333336,
+      "leak_bits": 5734,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08830385426444477,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.060807291666666666,
+      "leak_bits": 5968,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08830385426444477,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.05625,
+      "leak_bits": 6303,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08830385426444477,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.04973958333333333,
+      "leak_bits": 5404,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08830385426444477,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.04348958333333333,
+      "leak_bits": 5112,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08830385426444477,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.040625,
+      "leak_bits": 4960,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.06497395833333333,
+      "leak_bits": 6180,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.06536458333333334,
+      "leak_bits": 6180,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.06458333333333334,
+      "leak_bits": 6152,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.06927083333333334,
+      "leak_bits": 6396,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.066796875,
+      "leak_bits": 6290,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.06966145833333333,
+      "leak_bits": 6422,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.05455729166666667,
+      "leak_bits": 5666,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.058203125,
+      "leak_bits": 5836,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.0578125,
+      "leak_bits": 6363,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.060807291666666666,
+      "leak_bits": 5966,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.06015625,
+      "leak_bits": 5920,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.04700520833333333,
+      "leak_bits": 5260,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.043619791666666664,
+      "leak_bits": 5094,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.041666666666666664,
+      "leak_bits": 5010,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.09065133243130458,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.04375,
+      "leak_bits": 5110,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.067578125,
+      "leak_bits": 6877,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.06966145833333333,
+      "leak_bits": 6414,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.06497395833333333,
+      "leak_bits": 6739,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.07213541666666666,
+      "leak_bits": 6552,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.06432291666666666,
+      "leak_bits": 6146,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.06158854166666667,
+      "leak_bits": 6018,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.05651041666666667,
+      "leak_bits": 5762,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.057421875,
+      "leak_bits": 5800,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.060546875,
+      "leak_bits": 5940,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.059895833333333336,
+      "leak_bits": 5924,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.048828125,
+      "leak_bits": 5917,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.048177083333333336,
+      "leak_bits": 5342,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.09299081508141371,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.04791666666666667,
+      "leak_bits": 5340,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09532265164212231,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.06666666666666667,
+      "leak_bits": 6248,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09532265164212231,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.06861979166666667,
+      "leak_bits": 6935,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09532265164212231,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.05963541666666667,
+      "leak_bits": 5898,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09532265164212231,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.05572916666666667,
+      "leak_bits": 5706,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09532265164212231,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.05625,
+      "leak_bits": 5750,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09532265164212231,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.05572916666666667,
+      "leak_bits": 6263,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09532265164212231,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.04986979166666667,
+      "leak_bits": 5424,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09764716540291365,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.06302083333333333,
+      "leak_bits": 6330,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09764716540291365,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.063671875,
+      "leak_bits": 6362,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09764716540291365,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.05651041666666667,
+      "leak_bits": 6024,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.066015625,
+      "leak_bits": 6470,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.070703125,
+      "leak_bits": 6664,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.06953125,
+      "leak_bits": 7279,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.065234375,
+      "leak_bits": 6462,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.06328125,
+      "leak_bits": 6358,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.06848958333333334,
+      "leak_bits": 6598,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.06744791666666666,
+      "leak_bits": 6528,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.054296875,
+      "leak_bits": 5906,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.05520833333333333,
+      "leak_bits": 5962,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.05481770833333333,
+      "leak_bits": 5992,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.0453125,
+      "leak_bits": 5454,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09996465618480029,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.046875,
+      "leak_bits": 5570,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10227540266833485,
+      "pilot_bmr": 0.068359375,
+      "raw_bmr": 0.065625,
+      "leak_bits": 6432,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10227540266833485,
+      "pilot_bmr": 0.068359375,
+      "raw_bmr": 0.05481770833333333,
+      "leak_bits": 5948,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10227540266833485,
+      "pilot_bmr": 0.068359375,
+      "raw_bmr": 0.05234375,
+      "leak_bits": 5812,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1045796644321837,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.06966145833333333,
+      "leak_bits": 6664,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1045796644321837,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.069140625,
+      "leak_bits": 6648,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1045796644321837,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.06627604166666666,
+      "leak_bits": 7097,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1045796644321837,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.06861979166666667,
+      "leak_bits": 6606,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1045796644321837,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.06783854166666667,
+      "leak_bits": 6572,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1045796644321837,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.067578125,
+      "leak_bits": 6552,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.1045796644321837,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.05846354166666667,
+      "leak_bits": 6120,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.1045796644321837,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.05911458333333333,
+      "leak_bits": 6128,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10687768374511324,
+      "pilot_bmr": 0.072265625,
+      "raw_bmr": 0.06861979166666667,
+      "leak_bits": 6612,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10687768374511324,
+      "pilot_bmr": 0.072265625,
+      "raw_bmr": 0.06796875,
+      "leak_bits": 6594,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10687768374511324,
+      "pilot_bmr": 0.072265625,
+      "raw_bmr": 0.06705729166666667,
+      "leak_bits": 6506,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10687768374511324,
+      "pilot_bmr": 0.072265625,
+      "raw_bmr": 0.06315104166666667,
+      "leak_bits": 6366,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10687768374511324,
+      "pilot_bmr": 0.072265625,
+      "raw_bmr": 0.059895833333333336,
+      "leak_bits": 6184,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10687768374511324,
+      "pilot_bmr": 0.072265625,
+      "raw_bmr": 0.0609375,
+      "leak_bits": 6256,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10687768374511324,
+      "pilot_bmr": 0.072265625,
+      "raw_bmr": 0.06002604166666667,
+      "leak_bits": 6815,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10916968714693387,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.06731770833333334,
+      "leak_bits": 6550,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10916968714693387,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.069921875,
+      "leak_bits": 6660,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10916968714693387,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.06640625,
+      "leak_bits": 6508,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10916968714693387,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.059375,
+      "leak_bits": 6212,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10916968714693387,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.057942708333333336,
+      "leak_bits": 6110,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1114558868480404,
+      "pilot_bmr": 0.076171875,
+      "raw_bmr": 0.06666666666666667,
+      "leak_bits": 6526,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1114558868480404,
+      "pilot_bmr": 0.076171875,
+      "raw_bmr": 0.06901041666666667,
+      "leak_bits": 7239,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.1114558868480404,
+      "pilot_bmr": 0.076171875,
+      "raw_bmr": 0.058203125,
+      "leak_bits": 6110,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1160116596648197,
+      "pilot_bmr": 0.080078125,
+      "raw_bmr": 0.06588541666666667,
+      "leak_bits": 6806,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1160116596648197,
+      "pilot_bmr": 0.080078125,
+      "raw_bmr": 0.068359375,
+      "leak_bits": 6930,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1160116596648197,
+      "pilot_bmr": 0.080078125,
+      "raw_bmr": 0.06627604166666666,
+      "leak_bits": 6850,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11828159608042667,
+      "pilot_bmr": 0.08203125,
+      "raw_bmr": 0.068359375,
+      "leak_bits": 6898,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.11828159608042667,
+      "pilot_bmr": 0.08203125,
+      "raw_bmr": 0.053515625,
+      "leak_bits": 6248,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.11828159608042667,
+      "pilot_bmr": 0.08203125,
+      "raw_bmr": 0.058203125,
+      "leak_bits": 7159,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.11828159608042667,
+      "pilot_bmr": 0.08203125,
+      "raw_bmr": 0.05768229166666667,
+      "leak_bits": 6406,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1205464572709761,
+      "pilot_bmr": 0.083984375,
+      "raw_bmr": 0.06315104166666667,
+      "leak_bits": 6666,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1205464572709761,
+      "pilot_bmr": 0.083984375,
+      "raw_bmr": 0.0703125,
+      "leak_bits": 6980,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1205464572709761,
+      "pilot_bmr": 0.083984375,
+      "raw_bmr": 0.06901041666666667,
+      "leak_bits": 6956,
+      "converged": 1
+    },
+    {
+      "H": 1,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.12280639998120768,
+      "pilot_bmr": 0.0859375,
+      "raw_bmr": 0.05611979166666667,
+      "leak_bits": 6370,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.027327314562885865,
+      "pilot_bmr": 0.0146484375,
+      "raw_bmr": 0.0291015625,
+      "leak_bits": 6711,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.028601574514334552,
+      "pilot_bmr": 0.015625,
+      "raw_bmr": 0.026432291666666666,
+      "leak_bits": 5946,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03112304668616196,
+      "pilot_bmr": 0.017578125,
+      "raw_bmr": 0.0294921875,
+      "leak_bits": 6524,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03237167066681232,
+      "pilot_bmr": 0.0185546875,
+      "raw_bmr": 0.0255859375,
+      "leak_bits": 5900,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03237167066681232,
+      "pilot_bmr": 0.0185546875,
+      "raw_bmr": 0.028776041666666665,
+      "leak_bits": 6404,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03237167066681232,
+      "pilot_bmr": 0.0185546875,
+      "raw_bmr": 0.0296875,
+      "leak_bits": 6556,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03361301387637968,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.026953125,
+      "leak_bits": 6190,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03361301387637968,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.026302083333333334,
+      "leak_bits": 6052,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03361301387637968,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.026497395833333333,
+      "leak_bits": 6044,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03361301387637968,
+      "pilot_bmr": 0.01953125,
+      "raw_bmr": 0.028450520833333333,
+      "leak_bits": 6388,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0348475834838178,
+      "pilot_bmr": 0.0205078125,
+      "raw_bmr": 0.028059895833333334,
+      "leak_bits": 6402,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0360758294722795,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.028255208333333334,
+      "leak_bits": 6438,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0360758294722795,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.027408854166666666,
+      "leak_bits": 6308,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0360758294722795,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.028450520833333333,
+      "leak_bits": 6907,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0360758294722795,
+      "pilot_bmr": 0.021484375,
+      "raw_bmr": 0.029817708333333335,
+      "leak_bits": 6630,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03729815329831487,
+      "pilot_bmr": 0.0224609375,
+      "raw_bmr": 0.025520833333333333,
+      "leak_bits": 6044,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03851491493324269,
+      "pilot_bmr": 0.0234375,
+      "raw_bmr": 0.0349609375,
+      "leak_bits": 7456,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.03972643864166359,
+      "pilot_bmr": 0.0244140625,
+      "raw_bmr": 0.03470052083333333,
+      "leak_bits": 7374,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03972643864166359,
+      "pilot_bmr": 0.0244140625,
+      "raw_bmr": 0.0287109375,
+      "leak_bits": 6594,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03972643864166359,
+      "pilot_bmr": 0.0244140625,
+      "raw_bmr": 0.029557291666666666,
+      "leak_bits": 6710,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03972643864166359,
+      "pilot_bmr": 0.0244140625,
+      "raw_bmr": 0.030598958333333332,
+      "leak_bits": 7319,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03972643864166359,
+      "pilot_bmr": 0.0244140625,
+      "raw_bmr": 0.027864583333333335,
+      "leak_bits": 6462,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.03972643864166359,
+      "pilot_bmr": 0.0244140625,
+      "raw_bmr": 0.0251953125,
+      "leak_bits": 6066,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04093301776352296,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.03463541666666667,
+      "leak_bits": 7905,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04093301776352296,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.026953125,
+      "leak_bits": 6861,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04093301776352296,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.029947916666666668,
+      "leak_bits": 6764,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04093301776352296,
+      "pilot_bmr": 0.025390625,
+      "raw_bmr": 0.027018229166666668,
+      "leak_bits": 6324,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.042134918702132484,
+      "pilot_bmr": 0.0263671875,
+      "raw_bmr": 0.03424479166666667,
+      "leak_bits": 7388,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.042134918702132484,
+      "pilot_bmr": 0.0263671875,
+      "raw_bmr": 0.034440104166666666,
+      "leak_bits": 7420,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.042134918702132484,
+      "pilot_bmr": 0.0263671875,
+      "raw_bmr": 0.026953125,
+      "leak_bits": 6406,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.042134918702132484,
+      "pilot_bmr": 0.0263671875,
+      "raw_bmr": 0.026888020833333335,
+      "leak_bits": 6386,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.042134918702132484,
+      "pilot_bmr": 0.0263671875,
+      "raw_bmr": 0.029622395833333332,
+      "leak_bits": 6748,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.042134918702132484,
+      "pilot_bmr": 0.0263671875,
+      "raw_bmr": 0.025455729166666666,
+      "leak_bits": 6144,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.042134918702132484,
+      "pilot_bmr": 0.0263671875,
+      "raw_bmr": 0.0291015625,
+      "leak_bits": 6692,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.042134918702132484,
+      "pilot_bmr": 0.0263671875,
+      "raw_bmr": 0.0296875,
+      "leak_bits": 6758,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.043332384273674945,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.034765625,
+      "leak_bits": 7432,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.043332384273674945,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.03424479166666667,
+      "leak_bits": 7392,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.043332384273674945,
+      "pilot_bmr": 0.02734375,
+      "raw_bmr": 0.03326822916666667,
+      "leak_bits": 7218,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.044525636538936965,
+      "pilot_bmr": 0.0283203125,
+      "raw_bmr": 0.035546875,
+      "leak_bits": 7590,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.044525636538936965,
+      "pilot_bmr": 0.0283203125,
+      "raw_bmr": 0.03313802083333333,
+      "leak_bits": 7270,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.044525636538936965,
+      "pilot_bmr": 0.0283203125,
+      "raw_bmr": 0.0296875,
+      "leak_bits": 6810,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.044525636538936965,
+      "pilot_bmr": 0.0283203125,
+      "raw_bmr": 0.027018229166666668,
+      "leak_bits": 6446,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.044525636538936965,
+      "pilot_bmr": 0.0283203125,
+      "raw_bmr": 0.029622395833333332,
+      "leak_bits": 6794,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.044525636538936965,
+      "pilot_bmr": 0.0283203125,
+      "raw_bmr": 0.027669270833333332,
+      "leak_bits": 6542,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.044525636538936965,
+      "pilot_bmr": 0.0283203125,
+      "raw_bmr": 0.026888020833333335,
+      "leak_bits": 6462,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.04571487921191339,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.03600260416666667,
+      "leak_bits": 7628,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04571487921191339,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.02578125,
+      "leak_bits": 6298,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04571487921191339,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.030338541666666666,
+      "leak_bits": 6898,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04571487921191339,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.026953125,
+      "leak_bits": 6442,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.04571487921191339,
+      "pilot_bmr": 0.029296875,
+      "raw_bmr": 0.027278645833333334,
+      "leak_bits": 6480,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.04453125,
+      "leak_bits": 8776,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.04596354166666667,
+      "leak_bits": 8928,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.03313802083333333,
+      "leak_bits": 7837,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.03951822916666667,
+      "leak_bits": 8687,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.033463541666666666,
+      "leak_bits": 7300,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.03658854166666667,
+      "leak_bits": 7736,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.03697916666666667,
+      "leak_bits": 7772,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.0341796875,
+      "leak_bits": 7408,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.028125,
+      "leak_bits": 6622,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.028580729166666666,
+      "leak_bits": 6656,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.027408854166666666,
+      "leak_bits": 6498,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.028059895833333334,
+      "leak_bits": 6578,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.03046875,
+      "leak_bits": 6912,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.027994791666666668,
+      "leak_bits": 6562,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.028450520833333333,
+      "leak_bits": 6640,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.046900299720129636,
+      "pilot_bmr": 0.0302734375,
+      "raw_bmr": 0.026106770833333334,
+      "leak_bits": 6879,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.0480820709763616,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.03528645833333333,
+      "leak_bits": 7670,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.0480820709763616,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.0376953125,
+      "leak_bits": 7972,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0480820709763616,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.027604166666666666,
+      "leak_bits": 6672,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0480820709763616,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.028059895833333334,
+      "leak_bits": 6726,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0480820709763616,
+      "pilot_bmr": 0.03125,
+      "raw_bmr": 0.028255208333333334,
+      "leak_bits": 7325,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.049260352909706415,
+      "pilot_bmr": 0.0322265625,
+      "raw_bmr": 0.0361328125,
+      "leak_bits": 8329,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.049260352909706415,
+      "pilot_bmr": 0.0322265625,
+      "raw_bmr": 0.0359375,
+      "leak_bits": 7760,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.049260352909706415,
+      "pilot_bmr": 0.0322265625,
+      "raw_bmr": 0.0353515625,
+      "leak_bits": 7652,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.049260352909706415,
+      "pilot_bmr": 0.0322265625,
+      "raw_bmr": 0.030729166666666665,
+      "leak_bits": 7080,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.049260352909706415,
+      "pilot_bmr": 0.0322265625,
+      "raw_bmr": 0.028190104166666667,
+      "leak_bits": 7325,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05043529379481266,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.03313802083333333,
+      "leak_bits": 8117,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05043529379481266,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.035546875,
+      "leak_bits": 8405,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05043529379481266,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.034505208333333336,
+      "leak_bits": 7674,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05043529379481266,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.03313802083333333,
+      "leak_bits": 7512,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05043529379481266,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.026888020833333335,
+      "leak_bits": 6740,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05043529379481266,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.027083333333333334,
+      "leak_bits": 6726,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05043529379481266,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.0302734375,
+      "leak_bits": 7755,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05043529379481266,
+      "pilot_bmr": 0.033203125,
+      "raw_bmr": 0.024934895833333335,
+      "leak_bits": 6456,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05160703141088909,
+      "pilot_bmr": 0.0341796875,
+      "raw_bmr": 0.04453125,
+      "leak_bits": 8974,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05160703141088909,
+      "pilot_bmr": 0.0341796875,
+      "raw_bmr": 0.03795572916666667,
+      "leak_bits": 8789,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05160703141088909,
+      "pilot_bmr": 0.0341796875,
+      "raw_bmr": 0.03229166666666667,
+      "leak_bits": 7402,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05160703141088909,
+      "pilot_bmr": 0.0341796875,
+      "raw_bmr": 0.03372395833333333,
+      "leak_bits": 7580,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05160703141088909,
+      "pilot_bmr": 0.0341796875,
+      "raw_bmr": 0.03561197916666667,
+      "leak_bits": 7852,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05160703141088909,
+      "pilot_bmr": 0.0341796875,
+      "raw_bmr": 0.03404947916666667,
+      "leak_bits": 7638,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05160703141088909,
+      "pilot_bmr": 0.0341796875,
+      "raw_bmr": 0.032421875,
+      "leak_bits": 7392,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05160703141088909,
+      "pilot_bmr": 0.0341796875,
+      "raw_bmr": 0.026692708333333332,
+      "leak_bits": 6724,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.04765625,
+      "leak_bits": 9378,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.032421875,
+      "leak_bits": 8063,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.03307291666666667,
+      "leak_bits": 7556,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.0341796875,
+      "leak_bits": 8261,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.0318359375,
+      "leak_bits": 7382,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.0349609375,
+      "leak_bits": 8385,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.033463541666666666,
+      "leak_bits": 7556,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.03509114583333333,
+      "leak_bits": 8361,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.03326822916666667,
+      "leak_bits": 8125,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05277569405641689,
+      "pilot_bmr": 0.03515625,
+      "raw_bmr": 0.030208333333333334,
+      "leak_bits": 7132,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0539414014409471,
+      "pilot_bmr": 0.0361328125,
+      "raw_bmr": 0.04381510416666667,
+      "leak_bits": 8878,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.0539414014409471,
+      "pilot_bmr": 0.0361328125,
+      "raw_bmr": 0.0353515625,
+      "leak_bits": 7808,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.0539414014409471,
+      "pilot_bmr": 0.0361328125,
+      "raw_bmr": 0.034765625,
+      "leak_bits": 7696,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.0539414014409471,
+      "pilot_bmr": 0.0361328125,
+      "raw_bmr": 0.03268229166666667,
+      "leak_bits": 7444,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05510426547171747,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.04453125,
+      "leak_bits": 9102,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05510426547171747,
+      "pilot_bmr": 0.037109375,
+      "raw_bmr": 0.03723958333333333,
+      "leak_bits": 8186,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0562643909498746,
+      "pilot_bmr": 0.0380859375,
+      "raw_bmr": 0.04505208333333333,
+      "leak_bits": 9839,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.0562643909498746,
+      "pilot_bmr": 0.0380859375,
+      "raw_bmr": 0.035872395833333334,
+      "leak_bits": 7980,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.0562643909498746,
+      "pilot_bmr": 0.0380859375,
+      "raw_bmr": 0.028971354166666668,
+      "leak_bits": 7140,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05742187618869088,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.04401041666666667,
+      "leak_bits": 9018,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05742187618869088,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.046223958333333336,
+      "leak_bits": 9302,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05742187618869088,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.03359375,
+      "leak_bits": 7710,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05742187618869088,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.027994791666666668,
+      "leak_bits": 7016,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.999,
+      "pilot_bmr_upper": 0.05742187618869088,
+      "pilot_bmr": 0.0390625,
+      "raw_bmr": 0.029231770833333334,
+      "leak_bits": 7216,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05857681356420692,
+      "pilot_bmr": 0.0400390625,
+      "raw_bmr": 0.046158854166666666,
+      "leak_bits": 9418,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05857681356420692,
+      "pilot_bmr": 0.0400390625,
+      "raw_bmr": 0.0453125,
+      "leak_bits": 9338,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05857681356420692,
+      "pilot_bmr": 0.0400390625,
+      "raw_bmr": 0.04485677083333333,
+      "leak_bits": 9230,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.05857681356420692,
+      "pilot_bmr": 0.0400390625,
+      "raw_bmr": 0.0462890625,
+      "leak_bits": 9502,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.05857681356420692,
+      "pilot_bmr": 0.0400390625,
+      "raw_bmr": 0.03561197916666667,
+      "leak_bits": 8190,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.059729290007119566,
+      "pilot_bmr": 0.041015625,
+      "raw_bmr": 0.04544270833333333,
+      "leak_bits": 10041,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.059729290007119566,
+      "pilot_bmr": 0.041015625,
+      "raw_bmr": 0.045247395833333336,
+      "leak_bits": 9360,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.059729290007119566,
+      "pilot_bmr": 0.041015625,
+      "raw_bmr": 0.03424479166666667,
+      "leak_bits": 7972,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.059729290007119566,
+      "pilot_bmr": 0.041015625,
+      "raw_bmr": 0.03600260416666667,
+      "leak_bits": 8192,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06087938744340677,
+      "pilot_bmr": 0.0419921875,
+      "raw_bmr": 0.056380208333333334,
+      "leak_bits": 10618,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06087938744340677,
+      "pilot_bmr": 0.0419921875,
+      "raw_bmr": 0.04375,
+      "leak_bits": 9809,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06087938744340677,
+      "pilot_bmr": 0.0419921875,
+      "raw_bmr": 0.043619791666666664,
+      "leak_bits": 9100,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06087938744340677,
+      "pilot_bmr": 0.0419921875,
+      "raw_bmr": 0.041731770833333334,
+      "leak_bits": 8866,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06087938744340677,
+      "pilot_bmr": 0.0419921875,
+      "raw_bmr": 0.032486979166666666,
+      "leak_bits": 7756,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06087938744340677,
+      "pilot_bmr": 0.0419921875,
+      "raw_bmr": 0.0341796875,
+      "leak_bits": 7996,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06087938744340677,
+      "pilot_bmr": 0.0419921875,
+      "raw_bmr": 0.03430989583333333,
+      "leak_bits": 7974,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06202718319007625,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.046484375,
+      "leak_bits": 9452,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06202718319007625,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.0451171875,
+      "leak_bits": 9328,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06202718319007625,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.04290364583333333,
+      "leak_bits": 8992,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06202718319007625,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.0455078125,
+      "leak_bits": 9318,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06202718319007625,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.046158854166666666,
+      "leak_bits": 10157,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06202718319007625,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.03333333333333333,
+      "leak_bits": 8597,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06202718319007625,
+      "pilot_bmr": 0.04296875,
+      "raw_bmr": 0.0337890625,
+      "leak_bits": 7952,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06317275031150439,
+      "pilot_bmr": 0.0439453125,
+      "raw_bmr": 0.055013020833333336,
+      "leak_bits": 10548,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06317275031150439,
+      "pilot_bmr": 0.0439453125,
+      "raw_bmr": 0.04479166666666667,
+      "leak_bits": 9242,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06317275031150439,
+      "pilot_bmr": 0.0439453125,
+      "raw_bmr": 0.035546875,
+      "leak_bits": 8831,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06431615794106288,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.057291666666666664,
+      "leak_bits": 11641,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06431615794106288,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.04407552083333333,
+      "leak_bits": 9332,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06431615794106288,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.04733072916666667,
+      "leak_bits": 10527,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06431615794106288,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.04388020833333333,
+      "leak_bits": 9306,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06431615794106288,
+      "pilot_bmr": 0.044921875,
+      "raw_bmr": 0.047526041666666664,
+      "leak_bits": 9764,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06545747157208087,
+      "pilot_bmr": 0.0458984375,
+      "raw_bmr": 0.05514322916666667,
+      "leak_bits": 10706,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06545747157208087,
+      "pilot_bmr": 0.0458984375,
+      "raw_bmr": 0.055859375,
+      "leak_bits": 11459,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06545747157208087,
+      "pilot_bmr": 0.0458984375,
+      "raw_bmr": 0.04505208333333333,
+      "leak_bits": 9464,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06545747157208087,
+      "pilot_bmr": 0.0458984375,
+      "raw_bmr": 0.0443359375,
+      "leak_bits": 9388,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06545747157208087,
+      "pilot_bmr": 0.0458984375,
+      "raw_bmr": 0.046158854166666666,
+      "leak_bits": 9604,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06545747157208087,
+      "pilot_bmr": 0.0458984375,
+      "raw_bmr": 0.0431640625,
+      "leak_bits": 9248,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06545747157208087,
+      "pilot_bmr": 0.0458984375,
+      "raw_bmr": 0.032486979166666666,
+      "leak_bits": 7982,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.06545747157208087,
+      "pilot_bmr": 0.0458984375,
+      "raw_bmr": 0.03313802083333333,
+      "leak_bits": 8845,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0665967533216457,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.05709635416666667,
+      "leak_bits": 11667,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0665967533216457,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.05572916666666667,
+      "leak_bits": 10668,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0665967533216457,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.0462890625,
+      "leak_bits": 9602,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0665967533216457,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.042317708333333336,
+      "leak_bits": 9140,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0665967533216457,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.04609375,
+      "leak_bits": 9510,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0665967533216457,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.0455078125,
+      "leak_bits": 10311,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.0665967533216457,
+      "pilot_bmr": 0.046875,
+      "raw_bmr": 0.03404947916666667,
+      "leak_bits": 8154,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.06009114583333333,
+      "leak_bits": 11296,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.054296875,
+      "leak_bits": 10562,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.0595703125,
+      "leak_bits": 11188,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.054361979166666664,
+      "leak_bits": 10578,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.054947916666666666,
+      "leak_bits": 10648,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.0462890625,
+      "leak_bits": 9574,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.04453125,
+      "leak_bits": 9434,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.04440104166666667,
+      "leak_bits": 9392,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.04407552083333333,
+      "leak_bits": 9430,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.043684895833333334,
+      "leak_bits": 9300,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.0470703125,
+      "leak_bits": 9698,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.044661458333333334,
+      "leak_bits": 9404,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06773406217027983,
+      "pilot_bmr": 0.0478515625,
+      "raw_bmr": 0.044205729166666666,
+      "leak_bits": 10145,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.06886945418013936,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.06451822916666666,
+      "leak_bits": 11788,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06886945418013936,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.056901041666666666,
+      "leak_bits": 10846,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.06886945418013936,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.05625,
+      "leak_bits": 11569,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.06886945418013936,
+      "pilot_bmr": 0.048828125,
+      "raw_bmr": 0.044140625,
+      "leak_bits": 9354,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07000298269404293,
+      "pilot_bmr": 0.0498046875,
+      "raw_bmr": 0.06380208333333333,
+      "leak_bits": 12659,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07000298269404293,
+      "pilot_bmr": 0.0498046875,
+      "raw_bmr": 0.058203125,
+      "leak_bits": 11178,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07000298269404293,
+      "pilot_bmr": 0.0498046875,
+      "raw_bmr": 0.0587890625,
+      "leak_bits": 11212,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07000298269404293,
+      "pilot_bmr": 0.0498046875,
+      "raw_bmr": 0.046875,
+      "leak_bits": 9862,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07000298269404293,
+      "pilot_bmr": 0.0498046875,
+      "raw_bmr": 0.0443359375,
+      "leak_bits": 9550,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07000298269404293,
+      "pilot_bmr": 0.0498046875,
+      "raw_bmr": 0.04251302083333333,
+      "leak_bits": 9380,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9985,
+      "pilot_bmr_upper": 0.07000298269404293,
+      "pilot_bmr": 0.0498046875,
+      "raw_bmr": 0.03365885416666667,
+      "leak_bits": 8370,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.0711346985173511,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.06328125,
+      "leak_bits": 12543,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0711346985173511,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.055859375,
+      "leak_bits": 11733,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0711346985173511,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.0564453125,
+      "leak_bits": 10934,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0711346985173511,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.05514322916666667,
+      "leak_bits": 11613,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0711346985173511,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.054427083333333334,
+      "leak_bits": 10726,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0711346985173511,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.045638020833333334,
+      "leak_bits": 9736,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0711346985173511,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.043684895833333334,
+      "leak_bits": 9502,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0711346985173511,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.04544270833333333,
+      "leak_bits": 9692,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.0711346985173511,
+      "pilot_bmr": 0.05078125,
+      "raw_bmr": 0.04498697916666667,
+      "leak_bits": 9658,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07226465008447026,
+      "pilot_bmr": 0.0517578125,
+      "raw_bmr": 0.06100260416666667,
+      "leak_bits": 11486,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07226465008447026,
+      "pilot_bmr": 0.0517578125,
+      "raw_bmr": 0.057291666666666664,
+      "leak_bits": 10990,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07226465008447026,
+      "pilot_bmr": 0.0517578125,
+      "raw_bmr": 0.054947916666666666,
+      "leak_bits": 11599,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07226465008447026,
+      "pilot_bmr": 0.0517578125,
+      "raw_bmr": 0.05677083333333333,
+      "leak_bits": 10978,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07339288361154214,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.05390625,
+      "leak_bits": 11589,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07339288361154214,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.056380208333333334,
+      "leak_bits": 10904,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07339288361154214,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.05416666666666667,
+      "leak_bits": 10708,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07339288361154214,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.054427083333333334,
+      "leak_bits": 10658,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07339288361154214,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.04446614583333333,
+      "leak_bits": 9616,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07339288361154214,
+      "pilot_bmr": 0.052734375,
+      "raw_bmr": 0.044140625,
+      "leak_bits": 10355,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07451944323669513,
+      "pilot_bmr": 0.0537109375,
+      "raw_bmr": 0.06321614583333333,
+      "leak_bits": 12543,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07451944323669513,
+      "pilot_bmr": 0.0537109375,
+      "raw_bmr": 0.05579427083333333,
+      "leak_bits": 10872,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07451944323669513,
+      "pilot_bmr": 0.0537109375,
+      "raw_bmr": 0.05358072916666667,
+      "leak_bits": 10680,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07451944323669513,
+      "pilot_bmr": 0.0537109375,
+      "raw_bmr": 0.043294270833333336,
+      "leak_bits": 9434,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07564437114907507,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.06484375,
+      "leak_bits": 11878,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07564437114907507,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.06419270833333333,
+      "leak_bits": 11838,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07564437114907507,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.0615234375,
+      "leak_bits": 12349,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07564437114907507,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.057942708333333336,
+      "leak_bits": 11120,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07564437114907507,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.0525390625,
+      "leak_bits": 10504,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07564437114907507,
+      "pilot_bmr": 0.0546875,
+      "raw_bmr": 0.045703125,
+      "leak_bits": 9718,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07676770770773488,
+      "pilot_bmr": 0.0556640625,
+      "raw_bmr": 0.0642578125,
+      "leak_bits": 12683,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07676770770773488,
+      "pilot_bmr": 0.0556640625,
+      "raw_bmr": 0.06100260416666667,
+      "leak_bits": 12253,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07676770770773488,
+      "pilot_bmr": 0.0556640625,
+      "raw_bmr": 0.059244791666666664,
+      "leak_bits": 11250,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07676770770773488,
+      "pilot_bmr": 0.0556640625,
+      "raw_bmr": 0.05384114583333333,
+      "leak_bits": 10578,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07676770770773488,
+      "pilot_bmr": 0.0556640625,
+      "raw_bmr": 0.057877604166666666,
+      "leak_bits": 11102,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07788949155134062,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.061783854166666666,
+      "leak_bits": 11718,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07788949155134062,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.05677083333333333,
+      "leak_bits": 11194,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07788949155134062,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.052994791666666666,
+      "leak_bits": 10732,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07788949155134062,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.054947916666666666,
+      "leak_bits": 10992,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07788949155134062,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.05657552083333333,
+      "leak_bits": 12075,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07788949155134062,
+      "pilot_bmr": 0.056640625,
+      "raw_bmr": 0.046549479166666664,
+      "leak_bits": 10036,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07900975969954825,
+      "pilot_bmr": 0.0576171875,
+      "raw_bmr": 0.06380208333333333,
+      "leak_bits": 11868,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07900975969954825,
+      "pilot_bmr": 0.0576171875,
+      "raw_bmr": 0.06458333333333334,
+      "leak_bits": 12909,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07900975969954825,
+      "pilot_bmr": 0.0576171875,
+      "raw_bmr": 0.0666015625,
+      "leak_bits": 13101,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.07900975969954825,
+      "pilot_bmr": 0.0576171875,
+      "raw_bmr": 0.06555989583333334,
+      "leak_bits": 12172,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07900975969954825,
+      "pilot_bmr": 0.0576171875,
+      "raw_bmr": 0.0580078125,
+      "leak_bits": 11300,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07900975969954825,
+      "pilot_bmr": 0.0576171875,
+      "raw_bmr": 0.0572265625,
+      "leak_bits": 11202,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.07900975969954825,
+      "pilot_bmr": 0.0576171875,
+      "raw_bmr": 0.0572265625,
+      "leak_bits": 11206,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.07900975969954825,
+      "pilot_bmr": 0.0576171875,
+      "raw_bmr": 0.04609375,
+      "leak_bits": 10959,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08012854764681089,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.07532552083333334,
+      "leak_bits": 14123,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08012854764681089,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.06276041666666667,
+      "leak_bits": 12717,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08012854764681089,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.05358072916666667,
+      "leak_bits": 10810,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.08012854764681089,
+      "pilot_bmr": 0.05859375,
+      "raw_bmr": 0.0458984375,
+      "leak_bits": 9960,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.0812458894492969,
+      "pilot_bmr": 0.0595703125,
+      "raw_bmr": 0.06328125,
+      "leak_bits": 11874,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.0812458894492969,
+      "pilot_bmr": 0.0595703125,
+      "raw_bmr": 0.06100260416666667,
+      "leak_bits": 12509,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0812458894492969,
+      "pilot_bmr": 0.0595703125,
+      "raw_bmr": 0.0548828125,
+      "leak_bits": 10938,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08236181780552915,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.07591145833333333,
+      "leak_bits": 13212,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08236181780552915,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.06256510416666666,
+      "leak_bits": 11792,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08236181780552915,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.06106770833333333,
+      "leak_bits": 12569,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08236181780552915,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.061263020833333334,
+      "leak_bits": 12591,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9975,
+      "pilot_bmr_upper": 0.08236181780552915,
+      "pilot_bmr": 0.060546875,
+      "raw_bmr": 0.043619791666666664,
+      "leak_bits": 9718,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08347636413128964,
+      "pilot_bmr": 0.0615234375,
+      "raw_bmr": 0.066796875,
+      "leak_bits": 12264,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08347636413128964,
+      "pilot_bmr": 0.0615234375,
+      "raw_bmr": 0.06328125,
+      "leak_bits": 11896,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08347636413128964,
+      "pilot_bmr": 0.0615234375,
+      "raw_bmr": 0.058268229166666664,
+      "leak_bits": 11330,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08347636413128964,
+      "pilot_bmr": 0.0615234375,
+      "raw_bmr": 0.06009114583333333,
+      "leak_bits": 12361,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08347636413128964,
+      "pilot_bmr": 0.0615234375,
+      "raw_bmr": 0.06139322916666667,
+      "leak_bits": 11650,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08347636413128964,
+      "pilot_bmr": 0.0615234375,
+      "raw_bmr": 0.062890625,
+      "leak_bits": 11836,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08347636413128964,
+      "pilot_bmr": 0.0615234375,
+      "raw_bmr": 0.06334635416666666,
+      "leak_bits": 12787,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08347636413128964,
+      "pilot_bmr": 0.0615234375,
+      "raw_bmr": 0.0556640625,
+      "leak_bits": 11963,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08458955862928212,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.07649739583333333,
+      "leak_bits": 14231,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08458955862928212,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.06321614583333333,
+      "leak_bits": 11912,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08458955862928212,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.06302083333333333,
+      "leak_bits": 11796,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08458955862928212,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.0609375,
+      "leak_bits": 11614,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08458955862928212,
+      "pilot_bmr": 0.0625,
+      "raw_bmr": 0.0548828125,
+      "leak_bits": 10918,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.0857014303539938,
+      "pilot_bmr": 0.0634765625,
+      "raw_bmr": 0.061783854166666666,
+      "leak_bits": 12641,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.0857014303539938,
+      "pilot_bmr": 0.0634765625,
+      "raw_bmr": 0.06673177083333333,
+      "leak_bits": 12214,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0857014303539938,
+      "pilot_bmr": 0.0634765625,
+      "raw_bmr": 0.057877604166666666,
+      "leak_bits": 11324,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0857014303539938,
+      "pilot_bmr": 0.0634765625,
+      "raw_bmr": 0.05572916666666667,
+      "leak_bits": 11028,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0857014303539938,
+      "pilot_bmr": 0.0634765625,
+      "raw_bmr": 0.055924479166666666,
+      "leak_bits": 11096,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08681200727215589,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.06549479166666666,
+      "leak_bits": 12266,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08681200727215589,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.0630859375,
+      "leak_bits": 11998,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08681200727215589,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.06171875,
+      "leak_bits": 11888,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08681200727215589,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.06380208333333333,
+      "leak_bits": 12108,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08681200727215589,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.06334635416666666,
+      "leak_bits": 12024,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08681200727215589,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.06197916666666667,
+      "leak_bits": 11906,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08681200727215589,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.0609375,
+      "leak_bits": 11782,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08681200727215589,
+      "pilot_bmr": 0.064453125,
+      "raw_bmr": 0.05755208333333333,
+      "leak_bits": 11438,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.0759765625,
+      "leak_bits": 14341,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.07727864583333334,
+      "leak_bits": 13452,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.07819010416666666,
+      "leak_bits": 13548,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.057291666666666664,
+      "leak_bits": 11446,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.06067708333333333,
+      "leak_bits": 11766,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.0630859375,
+      "leak_bits": 12034,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.06354166666666666,
+      "leak_bits": 13069,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.0603515625,
+      "leak_bits": 11714,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.060872395833333336,
+      "leak_bits": 11788,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.05579427083333333,
+      "leak_bits": 11278,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08792131631916165,
+      "pilot_bmr": 0.0654296875,
+      "raw_bmr": 0.05390625,
+      "leak_bits": 12101,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08902938345176849,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.0599609375,
+      "leak_bits": 11714,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08902938345176849,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.06165364583333333,
+      "leak_bits": 11886,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08902938345176849,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.06243489583333333,
+      "leak_bits": 11936,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.08902938345176849,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.0640625,
+      "leak_bits": 12100,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.08902938345176849,
+      "pilot_bmr": 0.06640625,
+      "raw_bmr": 0.05709635416666667,
+      "leak_bits": 11404,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09013623369738001,
+      "pilot_bmr": 0.0673828125,
+      "raw_bmr": 0.07825520833333334,
+      "leak_bits": 14581,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09013623369738001,
+      "pilot_bmr": 0.0673828125,
+      "raw_bmr": 0.059309895833333334,
+      "leak_bits": 11602,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09013623369738001,
+      "pilot_bmr": 0.0673828125,
+      "raw_bmr": 0.06243489583333333,
+      "leak_bits": 11940,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09013623369738001,
+      "pilot_bmr": 0.0673828125,
+      "raw_bmr": 0.062239583333333334,
+      "leak_bits": 11924,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.09013623369738001,
+      "pilot_bmr": 0.0673828125,
+      "raw_bmr": 0.056640625,
+      "leak_bits": 12391,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.0923463792643192,
+      "pilot_bmr": 0.0693359375,
+      "raw_bmr": 0.062239583333333334,
+      "leak_bits": 12959,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.0923463792643192,
+      "pilot_bmr": 0.0693359375,
+      "raw_bmr": 0.055859375,
+      "leak_bits": 11268,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09344972039451054,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.07584635416666667,
+      "leak_bits": 14375,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09344972039451054,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.078125,
+      "leak_bits": 13538,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09344972039451054,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.07604166666666666,
+      "leak_bits": 13322,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09344972039451054,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.08118489583333334,
+      "leak_bits": 13866,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09344972039451054,
+      "pilot_bmr": 0.0703125,
+      "raw_bmr": 0.06627604166666666,
+      "leak_bits": 12356,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09455193633400814,
+      "pilot_bmr": 0.0712890625,
+      "raw_bmr": 0.07916666666666666,
+      "leak_bits": 14667,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09455193633400814,
+      "pilot_bmr": 0.0712890625,
+      "raw_bmr": 0.07858072916666667,
+      "leak_bits": 13602,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09455193633400814,
+      "pilot_bmr": 0.0712890625,
+      "raw_bmr": 0.08033854166666667,
+      "leak_bits": 13756,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09455193633400814,
+      "pilot_bmr": 0.0712890625,
+      "raw_bmr": 0.076953125,
+      "leak_bits": 13442,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09455193633400814,
+      "pilot_bmr": 0.0712890625,
+      "raw_bmr": 0.062239583333333334,
+      "leak_bits": 12947,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.09455193633400814,
+      "pilot_bmr": 0.0712890625,
+      "raw_bmr": 0.05670572916666667,
+      "leak_bits": 11356,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.09455193633400814,
+      "pilot_bmr": 0.0712890625,
+      "raw_bmr": 0.0568359375,
+      "leak_bits": 11358,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09565304810038172,
+      "pilot_bmr": 0.072265625,
+      "raw_bmr": 0.06510416666666667,
+      "leak_bits": 12236,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.09675307601911752,
+      "pilot_bmr": 0.0732421875,
+      "raw_bmr": 0.08580729166666666,
+      "leak_bits": 15296,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09675307601911752,
+      "pilot_bmr": 0.0732421875,
+      "raw_bmr": 0.07233072916666666,
+      "leak_bits": 13981,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.0978520397552464,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.07701822916666666,
+      "leak_bits": 13844,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.0978520397552464,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.07721354166666666,
+      "leak_bits": 13892,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.0978520397552464,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.077734375,
+      "leak_bits": 13972,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.0978520397552464,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.07623697916666666,
+      "leak_bits": 13782,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.0978520397552464,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.07805989583333334,
+      "leak_bits": 13956,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.0978520397552464,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.06666666666666667,
+      "leak_bits": 12882,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.0978520397552464,
+      "pilot_bmr": 0.07421875,
+      "raw_bmr": 0.0611328125,
+      "leak_bits": 12302,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09894995834313125,
+      "pilot_bmr": 0.0751953125,
+      "raw_bmr": 0.07662760416666667,
+      "leak_bits": 13870,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09894995834313125,
+      "pilot_bmr": 0.0751953125,
+      "raw_bmr": 0.07766927083333333,
+      "leak_bits": 13936,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09894995834313125,
+      "pilot_bmr": 0.0751953125,
+      "raw_bmr": 0.07591145833333333,
+      "leak_bits": 13792,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.09894995834313125,
+      "pilot_bmr": 0.0751953125,
+      "raw_bmr": 0.07662760416666667,
+      "leak_bits": 13824,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.09894995834313125,
+      "pilot_bmr": 0.0751953125,
+      "raw_bmr": 0.060221354166666664,
+      "leak_bits": 13409,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.09894995834313125,
+      "pilot_bmr": 0.0751953125,
+      "raw_bmr": 0.05572916666666667,
+      "leak_bits": 11776,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1000468502145462,
+      "pilot_bmr": 0.076171875,
+      "raw_bmr": 0.08736979166666667,
+      "leak_bits": 14856,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.1000468502145462,
+      "pilot_bmr": 0.076171875,
+      "raw_bmr": 0.07708333333333334,
+      "leak_bits": 13906,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10114273322516244,
+      "pilot_bmr": 0.0771484375,
+      "raw_bmr": 0.087890625,
+      "leak_bits": 14930,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10114273322516244,
+      "pilot_bmr": 0.0771484375,
+      "raw_bmr": 0.07747395833333333,
+      "leak_bits": 13926,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10114273322516244,
+      "pilot_bmr": 0.0771484375,
+      "raw_bmr": 0.0810546875,
+      "leak_bits": 14234,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10114273322516244,
+      "pilot_bmr": 0.0771484375,
+      "raw_bmr": 0.07838541666666667,
+      "leak_bits": 14032,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10114273322516244,
+      "pilot_bmr": 0.0771484375,
+      "raw_bmr": 0.0794921875,
+      "leak_bits": 14098,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10223762467955363,
+      "pilot_bmr": 0.078125,
+      "raw_bmr": 0.08665364583333333,
+      "leak_bits": 14828,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10223762467955363,
+      "pilot_bmr": 0.078125,
+      "raw_bmr": 0.087109375,
+      "leak_bits": 14864,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10223762467955363,
+      "pilot_bmr": 0.078125,
+      "raw_bmr": 0.07740885416666667,
+      "leak_bits": 13864,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10223762467955363,
+      "pilot_bmr": 0.078125,
+      "raw_bmr": 0.07734375,
+      "leak_bits": 13908,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10223762467955363,
+      "pilot_bmr": 0.078125,
+      "raw_bmr": 0.07727864583333334,
+      "leak_bits": 13906,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10223762467955363,
+      "pilot_bmr": 0.078125,
+      "raw_bmr": 0.07701822916666666,
+      "leak_bits": 13868,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.10223762467955363,
+      "pilot_bmr": 0.078125,
+      "raw_bmr": 0.0646484375,
+      "leak_bits": 12688,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.995,
+      "pilot_bmr_upper": 0.10223762467955363,
+      "pilot_bmr": 0.078125,
+      "raw_bmr": 0.06536458333333334,
+      "leak_bits": 13905,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.996,
+      "pilot_bmr_upper": 0.10223762467955363,
+      "pilot_bmr": 0.078125,
+      "raw_bmr": 0.059309895833333334,
+      "leak_bits": 12188,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10333154135481712,
+      "pilot_bmr": 0.0791015625,
+      "raw_bmr": 0.08645833333333333,
+      "leak_bits": 14816,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10333154135481712,
+      "pilot_bmr": 0.0791015625,
+      "raw_bmr": 0.08177083333333333,
+      "leak_bits": 14292,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10333154135481712,
+      "pilot_bmr": 0.0791015625,
+      "raw_bmr": 0.07877604166666667,
+      "leak_bits": 13970,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10333154135481712,
+      "pilot_bmr": 0.0791015625,
+      "raw_bmr": 0.07760416666666667,
+      "leak_bits": 13968,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10442449952290735,
+      "pilot_bmr": 0.080078125,
+      "raw_bmr": 0.07428385416666666,
+      "leak_bits": 13604,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10442449952290735,
+      "pilot_bmr": 0.080078125,
+      "raw_bmr": 0.07805989583333334,
+      "leak_bits": 15109,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10551651497176277,
+      "pilot_bmr": 0.0810546875,
+      "raw_bmr": 0.08704427083333334,
+      "leak_bits": 14832,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10551651497176277,
+      "pilot_bmr": 0.0810546875,
+      "raw_bmr": 0.08723958333333333,
+      "leak_bits": 14870,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10551651497176277,
+      "pilot_bmr": 0.0810546875,
+      "raw_bmr": 0.07734375,
+      "leak_bits": 15099,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10551651497176277,
+      "pilot_bmr": 0.0810546875,
+      "raw_bmr": 0.073828125,
+      "leak_bits": 13536,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10551651497176277,
+      "pilot_bmr": 0.0810546875,
+      "raw_bmr": 0.07688802083333333,
+      "leak_bits": 13828,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10551651497176277,
+      "pilot_bmr": 0.0810546875,
+      "raw_bmr": 0.075390625,
+      "leak_bits": 13750,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10660760302530847,
+      "pilot_bmr": 0.08203125,
+      "raw_bmr": 0.087109375,
+      "leak_bits": 14868,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10660760302530847,
+      "pilot_bmr": 0.08203125,
+      "raw_bmr": 0.07623697916666666,
+      "leak_bits": 13810,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10660760302530847,
+      "pilot_bmr": 0.08203125,
+      "raw_bmr": 0.07584635416666667,
+      "leak_bits": 13762,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10660760302530847,
+      "pilot_bmr": 0.08203125,
+      "raw_bmr": 0.0775390625,
+      "leak_bits": 13924,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10769777856240376,
+      "pilot_bmr": 0.0830078125,
+      "raw_bmr": 0.09055989583333333,
+      "leak_bits": 15188,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10769777856240376,
+      "pilot_bmr": 0.0830078125,
+      "raw_bmr": 0.0892578125,
+      "leak_bits": 15062,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10769777856240376,
+      "pilot_bmr": 0.0830078125,
+      "raw_bmr": 0.09029947916666667,
+      "leak_bits": 15164,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10769777856240376,
+      "pilot_bmr": 0.0830078125,
+      "raw_bmr": 0.08736979166666667,
+      "leak_bits": 14878,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10769777856240376,
+      "pilot_bmr": 0.0830078125,
+      "raw_bmr": 0.07571614583333333,
+      "leak_bits": 13704,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10769777856240376,
+      "pilot_bmr": 0.0830078125,
+      "raw_bmr": 0.07591145833333333,
+      "leak_bits": 13738,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10769777856240376,
+      "pilot_bmr": 0.0830078125,
+      "raw_bmr": 0.07578125,
+      "leak_bits": 13782,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10878705603480454,
+      "pilot_bmr": 0.083984375,
+      "raw_bmr": 0.090625,
+      "leak_bits": 15264,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10878705603480454,
+      "pilot_bmr": 0.083984375,
+      "raw_bmr": 0.08841145833333333,
+      "leak_bits": 14940,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10878705603480454,
+      "pilot_bmr": 0.083984375,
+      "raw_bmr": 0.0845703125,
+      "leak_bits": 14606,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10878705603480454,
+      "pilot_bmr": 0.083984375,
+      "raw_bmr": 0.0791015625,
+      "leak_bits": 14062,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10878705603480454,
+      "pilot_bmr": 0.083984375,
+      "raw_bmr": 0.07604166666666666,
+      "leak_bits": 13772,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.10878705603480454,
+      "pilot_bmr": 0.083984375,
+      "raw_bmr": 0.07389322916666667,
+      "leak_bits": 14781,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.10987544948420103,
+      "pilot_bmr": 0.0849609375,
+      "raw_bmr": 0.08782552083333334,
+      "leak_bits": 14896,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11096297255838827,
+      "pilot_bmr": 0.0859375,
+      "raw_bmr": 0.08736979166666667,
+      "leak_bits": 14872,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11096297255838827,
+      "pilot_bmr": 0.0859375,
+      "raw_bmr": 0.08645833333333333,
+      "leak_bits": 14756,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.11096297255838827,
+      "pilot_bmr": 0.0859375,
+      "raw_bmr": 0.0759765625,
+      "leak_bits": 14925,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11204963852662456,
+      "pilot_bmr": 0.0869140625,
+      "raw_bmr": 0.08984375,
+      "leak_bits": 15066,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11204963852662456,
+      "pilot_bmr": 0.0869140625,
+      "raw_bmr": 0.08821614583333333,
+      "leak_bits": 14936,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11204963852662456,
+      "pilot_bmr": 0.0869140625,
+      "raw_bmr": 0.08658854166666667,
+      "leak_bits": 14734,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.11204963852662456,
+      "pilot_bmr": 0.0869140625,
+      "raw_bmr": 0.07708333333333334,
+      "leak_bits": 13852,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11313546029422446,
+      "pilot_bmr": 0.087890625,
+      "raw_bmr": 0.0916015625,
+      "leak_bits": 15359,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11313546029422446,
+      "pilot_bmr": 0.087890625,
+      "raw_bmr": 0.086328125,
+      "leak_bits": 15336,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11313546029422446,
+      "pilot_bmr": 0.087890625,
+      "raw_bmr": 0.08899739583333334,
+      "leak_bits": 15359,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.11313546029422446,
+      "pilot_bmr": 0.087890625,
+      "raw_bmr": 0.07571614583333333,
+      "leak_bits": 14298,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.11313546029422446,
+      "pilot_bmr": 0.087890625,
+      "raw_bmr": 0.08255208333333333,
+      "leak_bits": 14960,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.11313546029422446,
+      "pilot_bmr": 0.087890625,
+      "raw_bmr": 0.0802734375,
+      "leak_bits": 14700,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11422045041643572,
+      "pilot_bmr": 0.0888671875,
+      "raw_bmr": 0.0923828125,
+      "leak_bits": 15355,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11422045041643572,
+      "pilot_bmr": 0.0888671875,
+      "raw_bmr": 0.08743489583333333,
+      "leak_bits": 15318,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11422045041643572,
+      "pilot_bmr": 0.0888671875,
+      "raw_bmr": 0.0927734375,
+      "leak_bits": 15357,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11422045041643572,
+      "pilot_bmr": 0.0888671875,
+      "raw_bmr": 0.08177083333333333,
+      "leak_bits": 14912,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.1153046211116394,
+      "pilot_bmr": 0.08984375,
+      "raw_bmr": 0.07350260416666667,
+      "leak_bits": 14140,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11638798427391571,
+      "pilot_bmr": 0.0908203125,
+      "raw_bmr": 0.08854166666666667,
+      "leak_bits": 15357,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11638798427391571,
+      "pilot_bmr": 0.0908203125,
+      "raw_bmr": 0.0896484375,
+      "leak_bits": 15355,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11638798427391571,
+      "pilot_bmr": 0.0908203125,
+      "raw_bmr": 0.08795572916666666,
+      "leak_bits": 15343,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11747055148501147,
+      "pilot_bmr": 0.091796875,
+      "raw_bmr": 0.0880859375,
+      "leak_bits": 15355,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11747055148501147,
+      "pilot_bmr": 0.091796875,
+      "raw_bmr": 0.08736979166666667,
+      "leak_bits": 15309,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11747055148501147,
+      "pilot_bmr": 0.091796875,
+      "raw_bmr": 0.09231770833333333,
+      "leak_bits": 15359,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11747055148501147,
+      "pilot_bmr": 0.091796875,
+      "raw_bmr": 0.08645833333333333,
+      "leak_bits": 15232,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11855233402574337,
+      "pilot_bmr": 0.0927734375,
+      "raw_bmr": 0.08756510416666667,
+      "leak_bits": 15327,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11855233402574337,
+      "pilot_bmr": 0.0927734375,
+      "raw_bmr": 0.08860677083333333,
+      "leak_bits": 15357,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11855233402574337,
+      "pilot_bmr": 0.0927734375,
+      "raw_bmr": 0.09114583333333333,
+      "leak_bits": 15355,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11855233402574337,
+      "pilot_bmr": 0.0927734375,
+      "raw_bmr": 0.08821614583333333,
+      "leak_bits": 15359,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11855233402574337,
+      "pilot_bmr": 0.0927734375,
+      "raw_bmr": 0.08971354166666666,
+      "leak_bits": 15357,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11855233402574337,
+      "pilot_bmr": 0.0927734375,
+      "raw_bmr": 0.08307291666666666,
+      "leak_bits": 14984,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.11855233402574337,
+      "pilot_bmr": 0.0927734375,
+      "raw_bmr": 0.0765625,
+      "leak_bits": 14398,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11963334288687003,
+      "pilot_bmr": 0.09375,
+      "raw_bmr": 0.08678385416666666,
+      "leak_bits": 15332,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11963334288687003,
+      "pilot_bmr": 0.09375,
+      "raw_bmr": 0.0916015625,
+      "leak_bits": 15359,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.11963334288687003,
+      "pilot_bmr": 0.09375,
+      "raw_bmr": 0.08951822916666667,
+      "leak_bits": 15355,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12071358877946199,
+      "pilot_bmr": 0.0947265625,
+      "raw_bmr": 0.08815104166666667,
+      "leak_bits": 15355,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12071358877946199,
+      "pilot_bmr": 0.0947265625,
+      "raw_bmr": 0.090625,
+      "leak_bits": 15353,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12179308214479853,
+      "pilot_bmr": 0.095703125,
+      "raw_bmr": 0.0884765625,
+      "leak_bits": 15357,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12179308214479853,
+      "pilot_bmr": 0.095703125,
+      "raw_bmr": 0.08854166666666667,
+      "leak_bits": 15353,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12179308214479853,
+      "pilot_bmr": 0.095703125,
+      "raw_bmr": 0.08899739583333334,
+      "leak_bits": 15355,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12287183316381717,
+      "pilot_bmr": 0.0966796875,
+      "raw_bmr": 0.08645833333333333,
+      "leak_bits": 15298,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12287183316381717,
+      "pilot_bmr": 0.0966796875,
+      "raw_bmr": 0.08776041666666666,
+      "leak_bits": 15344,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12287183316381717,
+      "pilot_bmr": 0.0966796875,
+      "raw_bmr": 0.0873046875,
+      "leak_bits": 15320,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12287183316381717,
+      "pilot_bmr": 0.0966796875,
+      "raw_bmr": 0.087890625,
+      "leak_bits": 15313,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12394985176613993,
+      "pilot_bmr": 0.09765625,
+      "raw_bmr": 0.08997395833333334,
+      "leak_bits": 15357,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.9925,
+      "pilot_bmr_upper": 0.12394985176613993,
+      "pilot_bmr": 0.09765625,
+      "raw_bmr": 0.079296875,
+      "leak_bits": 14578,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1261037302339897,
+      "pilot_bmr": 0.099609375,
+      "raw_bmr": 0.090625,
+      "leak_bits": 15355,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1261037302339897,
+      "pilot_bmr": 0.099609375,
+      "raw_bmr": 0.0861328125,
+      "leak_bits": 15220,
+      "converged": 1
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.12717960877795045,
+      "pilot_bmr": 0.1005859375,
+      "raw_bmr": 0.089453125,
+      "leak_bits": 15357,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1282547922775232,
+      "pilot_bmr": 0.1015625,
+      "raw_bmr": 0.0890625,
+      "leak_bits": 15355,
+      "converged": 0
+    },
+    {
+      "H": 2,
+      "rho_ab_cal": 0.99,
+      "pilot_bmr_upper": 0.1293292895278766,
+      "pilot_bmr": 0.1025390625,
+      "raw_bmr": 0.09095052083333334,
+      "leak_bits": 15359,
+      "converged": 0
+    }
+  ],
+  "definition": "independent model-matched full-session calibration; cap prediction uses pilot_bmr_upper only"
+}

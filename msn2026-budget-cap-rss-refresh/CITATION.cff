@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the BOLT-RSS paper."
+title: "BOLT-RSS: Budget-Optimal Leakage Thresholding for Certified Received-Signal-Strength Key Refresh"
+type: software
+version: 2.0.0
+date-released: 2026-11-01
+license: MIT
+authors:
+  - family-names: Nawaz
+    given-names: Yasir
+    affiliation: "School of Computer Science and Technology, University of Science and Technology of China"
+  - family-names: Zhang
+    given-names: Hui
+    affiliation: "School of Computer Science and Technology, University of Science and Technology of China"
+repository-code: "https://github.com/yasir-212/msn2026-budget-cap-rss-refresh"
+preferred-citation:
+  type: conference-paper
+  title: "BOLT-RSS: Budget-Optimal Leakage Thresholding for Certified Received-Signal-Strength Key Refresh"
+  authors:
+    - family-names: Nawaz
+      given-names: Yasir
+    - family-names: Zhang
+      given-names: Hui
+  collection-title: "Proceedings of the IEEE International Conference on Mobility, Sensing and Networking (MSN)"
+  year: 2026

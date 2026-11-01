@@ -1,0 +1,5965 @@
+{
+ "baseline": {
+  "cfg": {
+   "N": 8192,
+   "NP": 512,
+   "conf": 0.99,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.15513044084821428,
+    "best": 0.481231689453125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0156982421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.00389404296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.23902587890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.213214111328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.160833740234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.139306640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.081927490234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.02728271484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.481231689453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.44957275390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.412164306640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.381842041015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.3482421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.26046142578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0430419921875,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.132086181640625,
+    "best": 0.39666748046875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0393310546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0255615234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.01185302734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.00380859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.178076171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.15565185546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.12862548828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.111309814453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.0902587890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.04449462890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.39666748046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.37093505859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.330010986328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.295782470703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.2840576171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.2362060546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.07117919921875,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.0788911365327381,
+    "best": 0.34227294921875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.007476806640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.004364013671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.000616455078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.0757080078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.056298828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.02998046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.02054443359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.012060546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.00146484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.34227294921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.31146240234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.2610107421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.2287841796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.191766357421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.10504150390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.007861328125,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.24130830310639878,
+    "best": 0.666912841796875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.072393798828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0544921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.01280517578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.00501708984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.335748291015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.30556640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.256201171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.22559814453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.190850830078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.1090576171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.666912841796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.633587646484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.578656005859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.543255615234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.502728271484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.406048583984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.1419921875,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "NP=128": {
+  "cfg": {
+   "N": 8192,
+   "NP": 128,
+   "conf": 0.99,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.1119623093377976,
+    "best": 0.436102294921875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.104705810546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.09359130859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.06031494140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.044390869140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.02587890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.436102294921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.4035888671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.368658447265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.354583740234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.28021240234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.179180908203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.10431024460565477,
+    "best": 0.40682373046875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.107611083984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.09759521484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.078228759765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.060784912109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.03104248046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0036376953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.40682373046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.3732177734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.299249267578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.270172119140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.24267578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.207489013671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0119873046875,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.03229631696428571,
+    "best": 0.173114013671875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.006756591796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.00252685546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.04010009765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.028094482421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.011944580078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.002667236328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.0001708984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.173114013671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.1471435546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.105120849609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.079144287109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.05413818359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.027301025390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.18790922619047618,
+    "best": 0.60556640625,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.02423095703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.017236328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.00738525390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.003082275390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.000201416015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.244110107421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.213116455078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.16253662109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.13004150390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.09481201171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.031475830078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.60556640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.571307373046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.514630126953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.478179931640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.43631591796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.336578369140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.075286865234375,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "NP=256": {
+  "cfg": {
+   "N": 8192,
+   "NP": 256,
+   "conf": 0.99,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.1150242396763393,
+    "best": 0.37359619140625,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.17998046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.1619140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.127197265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.09537353515625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.085614013671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.010540771484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.37359619140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.3703369140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.33240966796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.287677001953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.21732177734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.16591796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.00762939453125,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.11207943870907738,
+    "best": 0.34351806640625,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.03895263671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0188720703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.00428466796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.001409912109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.000372314453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.159027099609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.14345703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.110504150390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.0996826171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.07022705078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.024334716796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.34351806640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.32374267578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.2979736328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.274932861328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.2495849609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.161639404296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.03115234375,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.06115025111607143,
+    "best": 0.301531982421875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.000604248046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.049639892578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.0371337890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.019195556640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.012139892578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.00594482421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.301531982421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.267755126953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.212030029296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.177227783203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.138177490234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.0576171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.005157470703125,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.22493693033854162,
+    "best": 0.65198974609375,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.06639404296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.04736328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.02156982421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.01019287109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.001373291015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.3150390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.281396484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.22705078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.193194580078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.15653076171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.073272705078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.65198974609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.61756591796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.56080322265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.52418212890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.48231201171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.38245849609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.110986328125,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "NP=1024": {
+  "cfg": {
+   "N": 8192,
+   "NP": 1024,
+   "conf": 0.99,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.16901070731026785,
+    "best": 0.5109375,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.04595947265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.033929443359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.009686279296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.276092529296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.251385498046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.211090087890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.16533203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.13819580078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.077142333984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.5109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.460382080078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.42139892578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.3541015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.2905029296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.231707763671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.071380615234375,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.13196236746651785,
+    "best": 0.377618408203125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.05218505859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0396240234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.022418212890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.01375732421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0021240234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.182965087890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.16282958984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.1397705078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.12767333984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.107098388671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.05711669921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.377618408203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.34862060546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.315606689453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.29249267578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.264227294921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.205413818359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.05966796875,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.099267578125,
+    "best": 0.385479736328125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.020953369140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.00445556640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.124981689453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.09833984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.058758544921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.045562744140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.03055419921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.00584716796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.385479736328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.354351806640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.303082275390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.270123291015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.232281494140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.14403076171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.005816650390625,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.23901715959821432,
+    "best": 0.629522705078125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.086083984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.068646240234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.041900634765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.025640869140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.01016845703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.34993896484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.31939697265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.2690673828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.237164306640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.201251220703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.118511962890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.629522705078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.598394775390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.547125244140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.514166259765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.476324462890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.386114501953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.13994140625,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "N=2048": {
+  "cfg": {
+   "N": 2048,
+   "NP": 128,
+   "conf": 0.99,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.03453194754464285,
+    "best": 0.197412109375,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.0162109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.0044677734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.0017333984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.197412109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.186669921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.1366943359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.086962890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.064453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.03056640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.03206612723214286,
+    "best": 0.146435546875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.030419921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.0143310546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.0048095703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.00322265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.0037841796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.146435546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.1357177734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.1050048828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.093896484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.087841796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.0479248046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.0011393229166666667,
+    "best": 0.01533203125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.01533203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.00859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.0835879371279762,
+    "best": 0.3703369140625,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.08232421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.058740234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.02626953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.013232421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.0074462890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.3703369140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.3373046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.28359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.2486083984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.2087890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.117578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.001123046875,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "N=4096": {
+  "cfg": {
+   "N": 4096,
+   "NP": 256,
+   "conf": 0.99,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.0837919689360119,
+    "best": 0.31268310546875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.10345458984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.09049072265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.03541259765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.024462890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.0123291015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0047119140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.31268310546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.30345458984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.27125244140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.2468994140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.21278076171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.14169921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.07990199497767858,
+    "best": 0.3083251953125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.07745361328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.06558837890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.0516357421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.03177490234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.016943359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.3083251953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.28402099609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.2437255859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.2304931640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.20284423828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.1576904296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0074462890625,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.035078357514880955,
+    "best": 0.16649169921875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.04610595703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.037841796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.02615966796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.02093505859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.01556396484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0033447265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.16649169921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.14322509765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.10777587890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.08734130859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.06556396484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.01629638671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.17225981212797614,
+    "best": 0.5581787109375,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.01507568359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.00802001953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0016845703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.2416015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.21129150390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.161376953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.12994384765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.096875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.03232421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.5581787109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.5247314453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.4697998046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.4343994140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.3938720703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.2971923828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0410888671875,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "N=16384": {
+  "cfg": {
+   "N": 16384,
+   "NP": 1024,
+   "conf": 0.99,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.17422921316964288,
+    "best": 0.4685455322265625,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.06893310546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.058660888671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.030419921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.020196533203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.3208709716796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.2799896240234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.2227294921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.1941314697265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.1590057373046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0885223388671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.4685455322265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.4214599609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.3543701171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.338092041015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.317437744140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.2274169921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.088031005859375,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.15472106933593746,
+    "best": 0.4279571533203125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.079443359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0693511962890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0490692138671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.033526611328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0183685302734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.2192657470703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.19290771484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.1632720947265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.1461456298828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.12464599609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0711456298828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.4279571533203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.3971771240234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.348028564453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.3177703857421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.3032135009765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.2130401611328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0748138427734375,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.12050752185639883,
+    "best": 0.3678253173828125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.049383544921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.030706787109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0071685791015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.00162353515625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.21717529296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.19119873046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.1483154296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.1211669921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.0905242919921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0344970703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.3678253173828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.338043212890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.2903411865234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.2601531982421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.22579345703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.1444580078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0122833251953125,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.283156476702009,
+    "best": 0.7072052001953125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.1342559814453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.1135040283203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0786529541015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0558868408203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.031536865234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.000347900390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.4062164306640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.3728912353515625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.3186370849609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.283868408203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.2440460205078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.150836181640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.7072052001953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.6738800048828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.6189483642578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.5835479736328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.5430206298828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.4464019775390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.1826019287109375,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "conf=0.9": {
+  "cfg": {
+   "N": 8192,
+   "NP": 512,
+   "conf": 0.9,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.13988037109375,
+    "best": 0.442236328125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.05172119140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.03177490234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.192376708984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.147998046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.12911376953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.10916748046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.094720458984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0308837890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.442236328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.418231201171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.366693115234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.33056640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.304119873046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.23751220703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.050372314453125,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.14157569521949406,
+    "best": 0.391815185546875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0656494140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.04892578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0266357421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.01422119140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.002081298828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.205206298828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.170703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.13748779296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.127960205078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.10833740234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.049566650390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.391815185546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.381121826171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.34874267578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.312548828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.274554443359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.232861328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.07467041015625,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.09020153227306546,
+    "best": 0.3696533203125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.01724853515625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.01099853515625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.00167236328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.000201416015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.0962646484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.074658203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.040093994140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.026544189453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.01793212890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.003399658203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.3696533203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.33758544921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.286224365234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.25333251953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.216314697265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.12891845703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.013189697265625,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.2562802269345238,
+    "best": 0.68953857421875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.108843994140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.088092041015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.054144287109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.03441162109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.01417236328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.33787841796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.30697021484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.25975341796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.23006591796875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.1965576171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.119537353515625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.68953857421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.65621337890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.60128173828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.56588134765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.52535400390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.42867431640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.16451416015625,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "conf=0.999": {
+  "cfg": {
+   "N": 8192,
+   "NP": 512,
+   "conf": 0.999,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.15135614304315476,
+    "best": 0.4757568359375,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.25634765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.217181396484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.179925537109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.140643310546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.10743408203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.041668701171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.4757568359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.449005126953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.39541015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.3546142578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.29503173828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.239141845703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.026318359375,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.12495930989583336,
+    "best": 0.36923828125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.025244140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.017181396484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.00504150390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.195782470703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.174908447265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.145196533203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.117083740234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.095855712890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.04671630859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.36923828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.344183349609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.295111083984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.275909423828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.263665771484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.2040283203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0489990234375,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.0657958984375,
+    "best": 0.293218994140625,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.002911376953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.001470947265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.067950439453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.050286865234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.02867431640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.02122802734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.013055419921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.00367431640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.293218994140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.264599609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.21759033203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.1877685546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.15347900390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.074615478515625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.001190185546875,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.22409493582589285,
+    "best": 0.635040283203125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.04613037109375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.029656982421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.009051513671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.00250244140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.32930908203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.298486328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.2485595703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.2163330078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.179315185546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.0938720703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.635040283203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.601715087890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.546783447265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.511383056640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.470855712890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.374176025390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.112823486328125,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "cbits=32": {
+  "cfg": {
+   "N": 8192,
+   "NP": 512,
+   "conf": 0.99,
+   "cbits": 32,
+   "Hs": [
+    1,
+    2
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.16196289062499997,
+    "best": 0.48607177734375,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.0240234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0071044921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.24365234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.218890380859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.166754150390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.144927978515625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.10548095703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.033392333984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.48607177734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.45936279296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.43643798828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.409527587890625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.3516357421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.268182373046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0457763671875,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.13640136718749998,
+    "best": 0.40604248046875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.03582763671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.0264892578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0139892578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.00743408203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.001593017578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.183099365234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.161822509765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.13370361328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.116278076171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.094390869140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.053936767578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.40604248046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.377557373046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.335931396484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.31138916015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.28751220703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.243170166015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.074261474609375,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.0841793968563988,
+    "best": 0.35360107421875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.014801025390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.006121826171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.001220703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 6.7138671875e-05,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.086279296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.065142822265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.035833740234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.024517822265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.014794921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.00205078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.35360107421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.32279052734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.2723388671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.2401123046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.203094482421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.11578369140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.00921630859375,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.24755278087797614,
+    "best": 0.674920654296875,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.080792236328125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.061273193359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.033203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.01673583984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.00657958984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.344097900390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.31376953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.264080810546875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.23341064453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.198663330078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.1168701171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.674920654296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.641595458984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.586663818359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.551263427734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.510736083984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.414056396484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.149896240234375,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ },
+ "Hmax=3": {
+  "cfg": {
+   "N": 8192,
+   "NP": 512,
+   "conf": 0.99,
+   "cbits": 64,
+   "Hs": [
+    1,
+    2,
+    3
+   ]
+  },
+  "res": {
+   "bolt": {
+    "mean_rate_over_cells": 0.13649059477306547,
+    "best": 0.390362548828125,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.018505859375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.00362548828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.25684814453125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.2330078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.192059326171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.154400634765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.100701904296875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.03238525390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.390362548828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.369183349609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.31397705078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.287969970703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.262847900390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.21370849609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.03671875,
+      "Hsel": null
+     }
+    ]
+   },
+   "bolt_lcb": {
+    "mean_rate_over_cells": 0.12951224190848212,
+    "best": 0.39417724609375,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.037451171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.022705078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.01185302734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.003369140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.173974609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.152032470703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.130987548828125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.11317138671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.0934326171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.049285888671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.39417724609375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.369891357421875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.325347900390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.295782470703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.27650146484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.212506103515625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.05728759765625,
+      "Hsel": null
+     }
+    ]
+   },
+   "q99": {
+    "mean_rate_over_cells": 0.0782008579799107,
+    "best": 0.337750244140625,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.007476806640625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.004364013671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.000616455078125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.07742919921875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.05802001953125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.03170166015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.022265625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.01229248046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.00146484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.337750244140625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.307623291015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.257696533203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.225469970703125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.1884521484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.1025390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.0070556640625,
+      "Hsel": null
+     }
+    ]
+   },
+   "oracle": {
+    "mean_rate_over_cells": 0.23942057291666666,
+    "best": 0.6603759765625,
+    "cells": [
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.1,
+      "rate": 0.070379638671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.2,
+      "rate": 0.05247802734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.3,
+      "rate": 0.02454833984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.35,
+      "rate": 0.0113525390625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.4,
+      "rate": 0.004888916015625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.5,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.99,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.1,
+      "rate": 0.34033203125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.2,
+      "rate": 0.309521484375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.3,
+      "rate": 0.2591552734375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.35,
+      "rate": 0.22791748046875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.4,
+      "rate": 0.19246826171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.5,
+      "rate": 0.1090576171875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.995,
+      "rho_ae": 0.7,
+      "rate": 0.0,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.1,
+      "rate": 0.6603759765625,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.2,
+      "rate": 0.6267333984375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.3,
+      "rate": 0.5718017578125,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.35,
+      "rate": 0.5364013671875,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.4,
+      "rate": 0.4958740234375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.5,
+      "rate": 0.3991943359375,
+      "Hsel": null
+     },
+     {
+      "rho_ab": 0.9975,
+      "rho_ae": 0.7,
+      "rate": 0.1353515625,
+      "Hsel": null
+     }
+    ]
+   }
+  }
+ }
+}

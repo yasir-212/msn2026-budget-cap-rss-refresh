@@ -1,0 +1,2358 @@
+{
+ "version": "bolt-rss-v4-kgr",
+ "channel_uses_per_block": 2,
+ "cells": [
+  {
+   "rho_ab": 0.95,
+   "rho_ae": 0.1,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.3700851023794607,
+    "H2": 0.6938951277234264
+   },
+   "I_QAQB": {
+    "H1": 0.3947921037911226,
+    "H2": 0.7402076179798014
+   },
+   "I_QAY": {
+    "H1": 3.466125303119849e-05,
+    "H2": 5.281507481313952e-05
+   },
+   "h_min": {
+    "H1": 0.9926371063876138,
+    "H2": 1.9880802124338124
+   },
+   "csi_cmi_upper_per_block": 3.1362886294194423
+  },
+  {
+   "rho_ab": 0.95,
+   "rho_ae": 0.2,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.36959685367217987,
+    "H2": 0.6931598096081828
+   },
+   "I_QAQB": {
+    "H1": 0.3947921037911226,
+    "H2": 0.7402076179798014
+   },
+   "I_QAY": {
+    "H1": 0.0005554598741307482,
+    "H2": 0.0008371543977396811
+   },
+   "h_min": {
+    "H1": 0.9704834069729295,
+    "H2": 1.9525317596799074
+   },
+   "csi_cmi_upper_per_block": 3.0988212727083697
+  },
+  {
+   "rho_ab": 0.95,
+   "rho_ae": 0.3,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.36746482285386484,
+    "H2": 0.6900056530304768
+   },
+   "I_QAQB": {
+    "H1": 0.3947921037911226,
+    "H2": 0.7402076179798014
+   },
+   "I_QAY": {
+    "H1": 0.002829626080333436,
+    "H2": 0.004201588080626095
+   },
+   "h_min": {
+    "H1": 0.9333333118318324,
+    "H2": 1.8939181894220092
+   },
+   "csi_cmi_upper_per_block": 3.0339726350018377
+  },
+  {
+   "rho_ab": 0.95,
+   "rho_ae": 0.35,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.3651726963983115,
+    "H2": 0.686661086603345
+   },
+   "I_QAQB": {
+    "H1": 0.3947921037911226,
+    "H2": 0.7402076179798014
+   },
+   "I_QAY": {
+    "H1": 0.0052745609662570025,
+    "H2": 0.0077691256028999955
+   },
+   "h_min": {
+    "H1": 0.9090241747614297,
+    "H2": 1.856182359649109
+   },
+   "csi_cmi_upper_per_block": 2.9900899179466465
+  },
+  {
+   "rho_ab": 0.95,
+   "rho_ae": 0.4,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.3616062375189284,
+    "H2": 0.6815088743639003
+   },
+   "I_QAQB": {
+    "H1": 0.3947921037911226,
+    "H2": 0.7402076179798014
+   },
+   "I_QAY": {
+    "H1": 0.009078783770932297,
+    "H2": 0.013264818658307753
+   },
+   "h_min": {
+    "H1": 0.8808067185073928,
+    "H2": 1.8129251533530437
+   },
+   "csi_cmi_upper_per_block": 2.9376209611200665
+  },
+  {
+   "rho_ab": 0.95,
+   "rho_ae": 0.5,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.34873401940768806,
+    "H2": 0.6631764697938953
+   },
+   "I_QAQB": {
+    "H1": 0.3947921037911226,
+    "H2": 0.7402076179798014
+   },
+   "I_QAY": {
+    "H1": 0.022809149756255365,
+    "H2": 0.03281938353297975
+   },
+   "h_min": {
+    "H1": 0.8122820025506748,
+    "H2": 1.7098566741639598
+   },
+   "csi_cmi_upper_per_block": 2.8027108624484556
+  },
+  {
+   "rho_ab": 0.95,
+   "rho_ae": 0.7,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.2771745333210486,
+    "H2": 0.5627537504033768
+   },
+   "I_QAQB": {
+    "H1": 0.3947921037911226,
+    "H2": 0.7402076179798014
+   },
+   "I_QAY": {
+    "H1": 0.09913926824867081,
+    "H2": 0.13993695088286606
+   },
+   "h_min": {
+    "H1": 0.6225730757778976,
+    "H2": 1.4280981127962094
+   },
+   "csi_cmi_upper_per_block": 2.3589460770863075
+  },
+  {
+   "rho_ab": 0.97,
+   "rho_ae": 0.1,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.4551377701457641,
+    "H2": 0.8596124497989885
+   },
+   "I_QAQB": {
+    "H1": 0.4855149494085129,
+    "H2": 0.9169727615270675
+   },
+   "I_QAY": {
+    "H1": 3.466125303119849e-05,
+    "H2": 5.281507481313952e-05
+   },
+   "h_min": {
+    "H1": 0.9926371063876138,
+    "H2": 1.9880802124338124
+   },
+   "csi_cmi_upper_per_block": 3.812868260561056
+  },
+  {
+   "rho_ab": 0.97,
+   "rho_ae": 0.2,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.4546495214384833,
+    "H2": 0.8588771316837449
+   },
+   "I_QAQB": {
+    "H1": 0.4855149494085129,
+    "H2": 0.9169727615270675
+   },
+   "I_QAY": {
+    "H1": 0.0005554598741307482,
+    "H2": 0.0008371543977396811
+   },
+   "h_min": {
+    "H1": 0.9704834069729295,
+    "H2": 1.9525317596799074
+   },
+   "csi_cmi_upper_per_block": 3.7737680998504826
+  },
+  {
+   "rho_ab": 0.97,
+   "rho_ae": 0.3,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.4525174906201683,
+    "H2": 0.8557229751060389
+   },
+   "I_QAQB": {
+    "H1": 0.4855149494085129,
+    "H2": 0.9169727615270675
+   },
+   "I_QAY": {
+    "H1": 0.002829626080333436,
+    "H2": 0.004201588080626095
+   },
+   "h_min": {
+    "H1": 0.9333333118318324,
+    "H2": 1.8939181894220092
+   },
+   "csi_cmi_upper_per_block": 3.705979305557295
+  },
+  {
+   "rho_ab": 0.97,
+   "rho_ae": 0.35,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.4502253641646149,
+    "H2": 0.852378408678907
+   },
+   "I_QAQB": {
+    "H1": 0.4855149494085129,
+    "H2": 0.9169727615270675
+   },
+   "I_QAY": {
+    "H1": 0.0052745609662570025,
+    "H2": 0.0077691256028999955
+   },
+   "h_min": {
+    "H1": 0.9090241747614297,
+    "H2": 1.856182359649109
+   },
+   "csi_cmi_upper_per_block": 3.660021662940889
+  },
+  {
+   "rho_ab": 0.97,
+   "rho_ae": 0.4,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.44665890528523183,
+    "H2": 0.8472261964394623
+   },
+   "I_QAQB": {
+    "H1": 0.4855149494085129,
+    "H2": 0.9169727615270675
+   },
+   "I_QAY": {
+    "H1": 0.009078783770932297,
+    "H2": 0.013264818658307753
+   },
+   "h_min": {
+    "H1": 0.8808067185073928,
+    "H2": 1.8129251533530437
+   },
+   "csi_cmi_upper_per_block": 3.6049773612362386
+  },
+  {
+   "rho_ab": 0.97,
+   "rho_ae": 0.5,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.43378668717399144,
+    "H2": 0.8288937918694573
+   },
+   "I_QAQB": {
+    "H1": 0.4855149494085129,
+    "H2": 0.9169727615270675
+   },
+   "I_QAY": {
+    "H1": 0.022809149756255365,
+    "H2": 0.03281938353297975
+   },
+   "h_min": {
+    "H1": 0.8122820025506748,
+    "H2": 1.7098566741639598
+   },
+   "csi_cmi_upper_per_block": 3.4629424948185474
+  },
+  {
+   "rho_ab": 0.97,
+   "rho_ae": 0.7,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.36222720108735196,
+    "H2": 0.7284710724789388
+   },
+   "I_QAQB": {
+    "H1": 0.4855149494085129,
+    "H2": 0.9169727615270675
+   },
+   "I_QAY": {
+    "H1": 0.09913926824867081,
+    "H2": 0.13993695088286606
+   },
+   "h_min": {
+    "H1": 0.6225730757778976,
+    "H2": 1.4280981127962094
+   },
+   "csi_cmi_upper_per_block": 2.9896363988503833
+  },
+  {
+   "rho_ab": 0.98,
+   "rho_ae": 0.1,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 9798.3
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 5531.6
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 10177.5
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.5163392325560003,
+    "H2": 0.9774004079049681
+   },
+   "I_QAQB": {
+    "H1": 0.5507965093127649,
+    "H2": 1.0426132501734457
+   },
+   "I_QAY": {
+    "H1": 3.466125303119849e-05,
+    "H2": 5.281507481313952e-05
+   },
+   "h_min": {
+    "H1": 0.9926371063876138,
+    "H2": 1.9880802124338124
+   },
+   "csi_cmi_upper_per_block": 4.354156080380853
+  },
+  {
+   "rho_ab": 0.98,
+   "rho_ae": 0.2,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 9665.7
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 5516.1
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 10177.5
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.5158509838487195,
+    "H2": 0.9766650897897244
+   },
+   "I_QAQB": {
+    "H1": 0.5507965093127649,
+    "H2": 1.0426132501734457
+   },
+   "I_QAY": {
+    "H1": 0.0005554598741307482,
+    "H2": 0.0008371543977396811
+   },
+   "h_min": {
+    "H1": 0.9704834069729295,
+    "H2": 1.9525317596799074
+   },
+   "csi_cmi_upper_per_block": 4.314225520802528
+  },
+  {
+   "rho_ab": 0.98,
+   "rho_ae": 0.3,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 9213.3
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 3293.1
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 10177.5
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.5137189530304045,
+    "H2": 0.9735109332120184
+   },
+   "I_QAQB": {
+    "H1": 0.5507965093127649,
+    "H2": 1.0426132501734457
+   },
+   "I_QAY": {
+    "H1": 0.002829626080333436,
+    "H2": 0.004201588080626095
+   },
+   "h_min": {
+    "H1": 0.9333333118318324,
+    "H2": 1.8939181894220092
+   },
+   "csi_cmi_upper_per_block": 4.244937623821266
+  },
+  {
+   "rho_ab": 0.98,
+   "rho_ae": 0.35,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 9003.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 3277.6
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 10177.5
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.5114268265748512,
+    "H2": 0.9701663667848867
+   },
+   "I_QAQB": {
+    "H1": 0.5507965093127649,
+    "H2": 1.0426132501734457
+   },
+   "I_QAY": {
+    "H1": 0.0052745609662570025,
+    "H2": 0.0077691256028999955
+   },
+   "h_min": {
+    "H1": 0.9090241747614297,
+    "H2": 1.856182359649109
+   },
+   "csi_cmi_upper_per_block": 4.19791906865197
+  },
+  {
+   "rho_ab": 0.98,
+   "rho_ae": 0.4,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 8977.9
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1836.7
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 10177.5
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.507860367695468,
+    "H2": 0.9650141545454418
+   },
+   "I_QAQB": {
+    "H1": 0.5507965093127649,
+    "H2": 1.0426132501734457
+   },
+   "I_QAY": {
+    "H1": 0.009078783770932297,
+    "H2": 0.013264818658307753
+   },
+   "h_min": {
+    "H1": 0.8808067185073928,
+    "H2": 1.8129251533530437
+   },
+   "csi_cmi_upper_per_block": 4.141554561973103
+  },
+  {
+   "rho_ab": 0.98,
+   "rho_ae": 0.5,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 8780.5
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 10177.5
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.4949881495842277,
+    "H2": 0.9466817499754369
+   },
+   "I_QAQB": {
+    "H1": 0.5507965093127649,
+    "H2": 1.0426132501734457
+   },
+   "I_QAY": {
+    "H1": 0.022809149756255365,
+    "H2": 0.03281938353297975
+   },
+   "h_min": {
+    "H1": 0.8122820025506748,
+    "H2": 1.7098566741639598
+   },
+   "csi_cmi_upper_per_block": 3.995847414706917
+  },
+  {
+   "rho_ab": 0.98,
+   "rho_ae": 0.7,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 10177.5
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.0,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.42342866349758823,
+    "H2": 0.8462590305849185
+   },
+   "I_QAQB": {
+    "H1": 0.5507965093127649,
+    "H2": 1.0426132501734457
+   },
+   "I_QAY": {
+    "H1": 0.09913926824867081,
+    "H2": 0.13993695088286606
+   },
+   "h_min": {
+    "H1": 0.6225730757778976,
+    "H2": 1.4280981127962094
+   },
+   "csi_cmi_upper_per_block": 3.5069969624806614
+  },
+  {
+   "rho_ab": 0.99,
+   "rho_ae": 0.1,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0156982421875,
+     "R_cu_probe": 0.00784912109375,
+     "R_cu_total_eta1": 0.003174818982229246,
+     "R_cu_total_eta1_noseed": 0.005331653299327007,
+     "mean_discussion_bits": 17798.05
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0393310546875,
+     "R_cu_probe": 0.01966552734375,
+     "R_cu_total_eta1": 0.007973426045956727,
+     "R_cu_total_eta1_noseed": 0.013423176660701131,
+     "mean_discussion_bits": 20582.6
+    },
+    "q99": {
+     "R_block": 0.007476806640625,
+     "R_cu_probe": 0.0037384033203125,
+     "R_cu_total_eta1": 0.001534549796502778,
+     "R_cu_total_eta1_noseed": 0.0025805770682913558,
+     "mean_discussion_bits": 23247.65
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.12520751953125,
+     "R_realized_eve": 0.072509765625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.00712890625,
+     "R_realized_eve": 7.32421875e-05
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.6071561367875823,
+    "H2": 1.1513639739003565
+   },
+   "I_QAQB": {
+    "H1": 0.6476678738264523,
+    "H2": 1.2281743872351933
+   },
+   "I_QAY": {
+    "H1": 3.466125303119849e-05,
+    "H2": 5.281507481313952e-05
+   },
+   "h_min": {
+    "H1": 0.9926371063876138,
+    "H2": 1.9880802124338124
+   },
+   "csi_cmi_upper_per_block": 5.284573271666619
+  },
+  {
+   "rho_ab": 0.99,
+   "rho_ae": 0.2,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.00389404296875,
+     "R_cu_probe": 0.001947021484375,
+     "R_cu_total_eta1": 0.0007899950470529965,
+     "R_cu_total_eta1_noseed": 0.0013291666666666666,
+     "mean_discussion_bits": 16392.8
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0255615234375,
+     "R_cu_probe": 0.01278076171875,
+     "R_cu_total_eta1": 0.005201056164142624,
+     "R_cu_total_eta1_noseed": 0.008696373735385152,
+     "mean_discussion_bits": 20032.65
+    },
+    "q99": {
+     "R_block": 0.004364013671875,
+     "R_cu_probe": 0.0021820068359375,
+     "R_cu_total_eta1": 0.0008993505780401305,
+     "R_cu_total_eta1_noseed": 0.0015070633266620595,
+     "mean_discussion_bits": 23086.15
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.12520751953125,
+     "R_realized_eve": 0.05458984375
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.00712890625,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.6066678880803015,
+    "H2": 1.1506286557851129
+   },
+   "I_QAQB": {
+    "H1": 0.6476678738264523,
+    "H2": 1.2281743872351933
+   },
+   "I_QAY": {
+    "H1": 0.0005554598741307482,
+    "H2": 0.0008371543977396811
+   },
+   "h_min": {
+    "H1": 0.9704834069729295,
+    "H2": 1.9525317596799074
+   },
+   "csi_cmi_upper_per_block": 5.243802945867497
+  },
+  {
+   "rho_ab": 0.99,
+   "rho_ae": 0.3,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 15071.5
+    },
+    "BOLT-LCB": {
+     "R_block": 0.01185302734375,
+     "R_cu_probe": 0.005926513671875,
+     "R_cu_total_eta1": 0.002422736752684469,
+     "R_cu_total_eta1_noseed": 0.004048426292654147,
+     "mean_discussion_bits": 17262.65
+    },
+    "q99": {
+     "R_block": 0.000616455078125,
+     "R_cu_probe": 0.0003082275390625,
+     "R_cu_total_eta1": 0.00012787076190717343,
+     "R_cu_total_eta1_noseed": 0.00021353065539112052,
+     "mean_discussion_bits": 16760.05
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.12520751953125,
+     "R_realized_eve": 0.02666015625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.00712890625,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.6045358572619864,
+    "H2": 1.1474744992074069
+   },
+   "I_QAQB": {
+    "H1": 0.6476678738264523,
+    "H2": 1.2281743872351933
+   },
+   "I_QAY": {
+    "H1": 0.002829626080333436,
+    "H2": 0.004201588080626095
+   },
+   "h_min": {
+    "H1": 0.9333333118318324,
+    "H2": 1.8939181894220092
+   },
+   "csi_cmi_upper_per_block": 5.1729964059429925
+  },
+  {
+   "rho_ab": 0.99,
+   "rho_ae": 0.35,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 14988.6
+    },
+    "BOLT-LCB": {
+     "R_block": 0.00380859375,
+     "R_cu_probe": 0.001904296875,
+     "R_cu_total_eta1": 0.0007809380933439995,
+     "R_cu_total_eta1_noseed": 0.0013049293301784465,
+     "mean_discussion_bits": 15538.6
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 15956.65
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.12520751953125,
+     "R_realized_eve": 0.012860107421875
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.00712890625,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.6022437308064331,
+    "H2": 1.144129932780275
+   },
+   "I_QAQB": {
+    "H1": 0.6476678738264523,
+    "H2": 1.2281743872351933
+   },
+   "I_QAY": {
+    "H1": 0.0052745609662570025,
+    "H2": 0.0077691256028999955
+   },
+   "h_min": {
+    "H1": 0.9090241747614297,
+    "H2": 1.856182359649109
+   },
+   "csi_cmi_upper_per_block": 5.124901059355059
+  },
+  {
+   "rho_ab": 0.99,
+   "rho_ae": 0.4,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 15527.2
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 7410.3
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 15557.75
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.12520751953125,
+     "R_realized_eve": 0.00504150390625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.00712890625,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.59867727192705,
+    "H2": 1.1389777205408302
+   },
+   "I_QAQB": {
+    "H1": 0.6476678738264523,
+    "H2": 1.2281743872351933
+   },
+   "I_QAY": {
+    "H1": 0.009078783770932297,
+    "H2": 0.013264818658307753
+   },
+   "h_min": {
+    "H1": 0.8808067185073928,
+    "H2": 1.8129251533530437
+   },
+   "csi_cmi_upper_per_block": 5.067194208015334
+  },
+  {
+   "rho_ab": 0.99,
+   "rho_ae": 0.5,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 14910.3
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 2466.5
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 15557.75
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.12520751953125,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.00712890625,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.5858050538158096,
+    "H2": 1.1206453159708252
+   },
+   "I_QAQB": {
+    "H1": 0.6476678738264523,
+    "H2": 1.2281743872351933
+   },
+   "I_QAY": {
+    "H1": 0.022809149756255365,
+    "H2": 0.03281938353297975
+   },
+   "h_min": {
+    "H1": 0.8122820025506748,
+    "H2": 1.7098566741639598
+   },
+   "csi_cmi_upper_per_block": 4.917739252880859
+  },
+  {
+   "rho_ab": 0.99,
+   "rho_ae": 0.7,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1701.4
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 1128.0
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 15557.75
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.12520751953125,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.00712890625,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.5142455677291702,
+    "H2": 1.020222596580307
+   },
+   "I_QAQB": {
+    "H1": 0.6476678738264523,
+    "H2": 1.2281743872351933
+   },
+   "I_QAY": {
+    "H1": 0.09913926824867081,
+    "H2": 0.13993695088286606
+   },
+   "h_min": {
+    "H1": 0.6225730757778976,
+    "H2": 1.4280981127962094
+   },
+   "csi_cmi_upper_per_block": 4.41279402463823
+  },
+  {
+   "rho_ab": 0.995,
+   "rho_ae": 0.1,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.23902587890625,
+     "R_cu_probe": 0.119512939453125,
+     "R_cu_total_eta1": 0.03382474717398758,
+     "R_cu_total_eta1_noseed": 0.06966959790320607,
+     "mean_discussion_bits": 39379.8
+    },
+    "BOLT-LCB": {
+     "R_block": 0.178076171875,
+     "R_cu_probe": 0.0890380859375,
+     "R_cu_total_eta1": 0.027157479044676903,
+     "R_cu_total_eta1_noseed": 0.0540230717550146,
+     "mean_discussion_bits": 36357.4
+    },
+    "q99": {
+     "R_block": 0.0757080078125,
+     "R_cu_probe": 0.03785400390625,
+     "R_cu_total_eta1": 0.013953465242398008,
+     "R_cu_total_eta1_noseed": 0.025442670012612988,
+     "mean_discussion_bits": 28284.5
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.310455322265625,
+     "R_realized_eve": 0.256866455078125
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.38228759765625,
+     "R_realized_eve": 0.32442626953125
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.6812071741513451,
+    "H2": 1.2989299582599632
+   },
+   "I_QAQB": {
+    "H1": 0.726655647014466,
+    "H2": 1.3855781038854404
+   },
+   "I_QAY": {
+    "H1": 3.466125303119849e-05,
+    "H2": 5.281507481313952e-05
+   },
+   "h_min": {
+    "H1": 0.9926371063876138,
+    "H2": 1.9880802124338124
+   },
+   "csi_cmi_upper_per_block": 6.218543651966419
+  },
+  {
+   "rho_ab": 0.995,
+   "rho_ae": 0.2,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.213214111328125,
+     "R_cu_probe": 0.1066070556640625,
+     "R_cu_total_eta1": 0.03029628323887229,
+     "R_cu_total_eta1_noseed": 0.06216364711810056,
+     "mean_discussion_bits": 39168.35
+    },
+    "BOLT-LCB": {
+     "R_block": 0.15565185546875,
+     "R_cu_probe": 0.077825927734375,
+     "R_cu_total_eta1": 0.024274511813503992,
+     "R_cu_total_eta1_noseed": 0.04770783831102003,
+     "mean_discussion_bits": 35101.05
+    },
+    "q99": {
+     "R_block": 0.056298828125,
+     "R_cu_probe": 0.0281494140625,
+     "R_cu_total_eta1": 0.010549099954424945,
+     "R_cu_total_eta1_noseed": 0.019106291909617948,
+     "mean_discussion_bits": 26975.35
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.310455322265625,
+     "R_realized_eve": 0.236114501953125
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.38228759765625,
+     "R_realized_eve": 0.29110107421875
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.6807189254440643,
+    "H2": 1.2981946401447195
+   },
+   "I_QAQB": {
+    "H1": 0.726655647014466,
+    "H2": 1.3855781038854404
+   },
+   "I_QAY": {
+    "H1": 0.0005554598741307482,
+    "H2": 0.0008371543977396811
+   },
+   "h_min": {
+    "H1": 0.9704834069729295,
+    "H2": 1.9525317596799074
+   },
+   "csi_cmi_upper_per_block": 6.177349921711753
+  },
+  {
+   "rho_ab": 0.995,
+   "rho_ae": 0.3,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.160833740234375,
+     "R_cu_probe": 0.0804168701171875,
+     "R_cu_total_eta1": 0.02431372097212864,
+     "R_cu_total_eta1_noseed": 0.04839669786890361,
+     "mean_discussion_bits": 35642.6
+    },
+    "BOLT-LCB": {
+     "R_block": 0.12862548828125,
+     "R_cu_probe": 0.064312744140625,
+     "R_cu_total_eta1": 0.020782956240453405,
+     "R_cu_total_eta1_noseed": 0.04012890344170476,
+     "mean_discussion_bits": 33730.95
+    },
+    "q99": {
+     "R_block": 0.02998046875,
+     "R_cu_probe": 0.014990234375,
+     "R_cu_total_eta1": 0.005790926728342775,
+     "R_cu_total_eta1_noseed": 0.010377965497133615,
+     "mean_discussion_bits": 22541.1
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.310455322265625,
+     "R_realized_eve": 0.201202392578125
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.38228759765625,
+     "R_realized_eve": 0.23616943359375
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.6785868946257493,
+    "H2": 1.2950404835670135
+   },
+   "I_QAQB": {
+    "H1": 0.726655647014466,
+    "H2": 1.3855781038854404
+   },
+   "I_QAY": {
+    "H1": 0.002829626080333436,
+    "H2": 0.004201588080626095
+   },
+   "h_min": {
+    "H1": 0.9333333118318324,
+    "H2": 1.8939181894220092
+   },
+   "csi_cmi_upper_per_block": 6.105776687157414
+  },
+  {
+   "rho_ab": 0.995,
+   "rho_ae": 0.35,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.139306640625,
+     "R_cu_probe": 0.0696533203125,
+     "R_cu_total_eta1": 0.020946471273076424,
+     "R_cu_total_eta1_noseed": 0.04175348637041477,
+     "mean_discussion_bits": 35786.7
+    },
+    "BOLT-LCB": {
+     "R_block": 0.111309814453125,
+     "R_cu_probe": 0.0556549072265625,
+     "R_cu_total_eta1": 0.018889381580049734,
+     "R_cu_total_eta1_noseed": 0.0356563021476259,
+     "mean_discussion_bits": 30311.8
+    },
+    "q99": {
+     "R_block": 0.02054443359375,
+     "R_cu_probe": 0.010272216796875,
+     "R_cu_total_eta1": 0.0039734545598404634,
+     "R_cu_total_eta1_noseed": 0.007109948601340827,
+     "mean_discussion_bits": 19750.1
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.310455322265625,
+     "R_realized_eve": 0.178497314453125
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.38228759765625,
+     "R_realized_eve": 0.20076904296875
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.676294768170196,
+    "H2": 1.2916959171398816
+   },
+   "I_QAQB": {
+    "H1": 0.726655647014466,
+    "H2": 1.3855781038854404
+   },
+   "I_QAY": {
+    "H1": 0.0052745609662570025,
+    "H2": 0.0077691256028999955
+   },
+   "h_min": {
+    "H1": 0.9090241747614297,
+    "H2": 1.856182359649109
+   },
+   "csi_cmi_upper_per_block": 6.057136931295986
+  },
+  {
+   "rho_ab": 0.995,
+   "rho_ae": 0.4,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.081927490234375,
+     "R_cu_probe": 0.0409637451171875,
+     "R_cu_total_eta1": 0.011547006820998277,
+     "R_cu_total_eta1_noseed": 0.02356072315018062,
+     "mean_discussion_bits": 32516.7
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0902587890625,
+     "R_cu_probe": 0.04512939453125,
+     "R_cu_total_eta1": 0.01536327931807909,
+     "R_cu_total_eta1_noseed": 0.028909569360072516,
+     "mean_discussion_bits": 30139.35
+    },
+    "q99": {
+     "R_block": 0.012060546875,
+     "R_cu_probe": 0.0060302734375,
+     "R_cu_total_eta1": 0.0023481327590678244,
+     "R_cu_total_eta1_noseed": 0.004186298293428944,
+     "mean_discussion_bits": 18095.3
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.310455322265625,
+     "R_realized_eve": 0.152008056640625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.38228759765625,
+     "R_realized_eve": 0.1611572265625
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.672728309290813,
+    "H2": 1.286543704900437
+   },
+   "I_QAQB": {
+    "H1": 0.726655647014466,
+    "H2": 1.3855781038854404
+   },
+   "I_QAY": {
+    "H1": 0.009078783770932297,
+    "H2": 0.013264818658307753
+   },
+   "h_min": {
+    "H1": 0.8808067185073928,
+    "H2": 1.8129251533530437
+   },
+   "csi_cmi_upper_per_block": 5.9987504963794445
+  },
+  {
+   "rho_ab": 0.995,
+   "rho_ae": 0.5,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.02728271484375,
+     "R_cu_probe": 0.013641357421875,
+     "R_cu_total_eta1": 0.004580832794363774,
+     "R_cu_total_eta1_noseed": 0.008630068483920427,
+     "mean_discussion_bits": 26976.8
+    },
+    "BOLT-LCB": {
+     "R_block": 0.04449462890625,
+     "R_cu_probe": 0.022247314453125,
+     "R_cu_total_eta1": 0.007503367643262778,
+     "R_cu_total_eta1_noseed": 0.014155721279057659,
+     "mean_discussion_bits": 23581.95
+    },
+    "q99": {
+     "R_block": 0.00146484375,
+     "R_cu_probe": 0.000732421875,
+     "R_cu_total_eta1": 0.0003137418950010458,
+     "R_cu_total_eta1_noseed": 0.0005389382915656157,
+     "mean_discussion_bits": 15278.2
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.310455322265625,
+     "R_realized_eve": 0.088134765625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.38228759765625,
+     "R_realized_eve": 0.079083251953125
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.6598560911795726,
+    "H2": 1.2682113003304318
+   },
+   "I_QAQB": {
+    "H1": 0.726655647014466,
+    "H2": 1.3855781038854404
+   },
+   "I_QAY": {
+    "H1": 0.022809149756255365,
+    "H2": 0.03281938353297975
+   },
+   "h_min": {
+    "H1": 0.8122820025506748,
+    "H2": 1.7098566741639598
+   },
+   "csi_cmi_upper_per_block": 5.847392763511289
+  },
+  {
+   "rho_ab": 0.995,
+   "rho_ae": 0.7,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 17255.3
+    },
+    "BOLT-LCB": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 2924.5
+    },
+    "q99": {
+     "R_block": 0.0,
+     "R_cu_probe": 0.0,
+     "R_cu_total_eta1": 0.0,
+     "R_cu_total_eta1_noseed": 0.0,
+     "mean_discussion_bits": 14071.75
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.310455322265625,
+     "R_realized_eve": 0.0
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.38228759765625,
+     "R_realized_eve": 0.0
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.588296605092933,
+    "H2": 1.1677885809399136
+   },
+   "I_QAQB": {
+    "H1": 0.726655647014466,
+    "H2": 1.3855781038854404
+   },
+   "I_QAY": {
+    "H1": 0.09913926824867081,
+    "H2": 0.13993695088286606
+   },
+   "h_min": {
+    "H1": 0.6225730757778976,
+    "H2": 1.4280981127962094
+   },
+   "csi_cmi_upper_per_block": 5.334184964033995
+  },
+  {
+   "rho_ab": 0.9975,
+   "rho_ae": 0.1,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.481231689453125,
+     "R_cu_probe": 0.2406158447265625,
+     "R_cu_total_eta1": 0.06313141396023222,
+     "R_cu_total_eta1_noseed": 0.14592937948892665,
+     "mean_discussion_bits": 44893.1
+    },
+    "BOLT-LCB": {
+     "R_block": 0.39666748046875,
+     "R_cu_probe": 0.198333740234375,
+     "R_cu_total_eta1": 0.05469421565697112,
+     "R_cu_total_eta1_noseed": 0.12242275397837574,
+     "mean_discussion_bits": 42926.85
+    },
+    "q99": {
+     "R_block": 0.34227294921875,
+     "R_cu_probe": 0.171136474609375,
+     "R_cu_total_eta1": 0.04917656631813573,
+     "R_cu_total_eta1_noseed": 0.10751042243315909,
+     "mean_discussion_bits": 40398.25
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.441339111328125,
+     "R_realized_eve": 0.387750244140625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.724896240234375,
+     "R_realized_eve": 0.667034912109375
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.7403635314096927,
+    "H2": 1.4231582596806294
+   },
+   "I_QAQB": {
+    "H1": 0.7897557614233701,
+    "H2": 1.5180882920674845
+   },
+   "I_QAY": {
+    "H1": 3.466125303119849e-05,
+    "H2": 5.281507481313952e-05
+   },
+   "h_min": {
+    "H1": 0.9926371063876138,
+    "H2": 1.9880802124338124
+   },
+   "csi_cmi_upper_per_block": 7.1542817694353715
+  },
+  {
+   "rho_ab": 0.9975,
+   "rho_ae": 0.2,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.44957275390625,
+     "R_cu_probe": 0.224786376953125,
+     "R_cu_total_eta1": 0.05922848034327621,
+     "R_cu_total_eta1_noseed": 0.13634736774311063,
+     "mean_discussion_bits": 44633.75
+    },
+    "BOLT-LCB": {
+     "R_block": 0.37093505859375,
+     "R_cu_probe": 0.185467529296875,
+     "R_cu_total_eta1": 0.05217341288978487,
+     "R_cu_total_eta1_noseed": 0.11540220512136071,
+     "mean_discussion_bits": 41661.65
+    },
+    "q99": {
+     "R_block": 0.31146240234375,
+     "R_cu_probe": 0.155731201171875,
+     "R_cu_total_eta1": 0.044937805783566806,
+     "R_cu_total_eta1_noseed": 0.09785624023950086,
+     "mean_discussion_bits": 40145.85
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.441339111328125,
+     "R_realized_eve": 0.366998291015625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.724896240234375,
+     "R_realized_eve": 0.633709716796875
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.7398752827024119,
+    "H2": 1.4224229415653857
+   },
+   "I_QAQB": {
+    "H1": 0.7897557614233701,
+    "H2": 1.5180882920674845
+   },
+   "I_QAY": {
+    "H1": 0.0005554598741307482,
+    "H2": 0.0008371543977396811
+   },
+   "h_min": {
+    "H1": 0.9704834069729295,
+    "H2": 1.9525317596799074
+   },
+   "csi_cmi_upper_per_block": 7.112875455100328
+  },
+  {
+   "rho_ab": 0.9975,
+   "rho_ae": 0.3,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.412164306640625,
+     "R_cu_probe": 0.2060821533203125,
+     "R_cu_total_eta1": 0.054455284176677554,
+     "R_cu_total_eta1_noseed": 0.12506169036052386,
+     "mean_discussion_bits": 43535.7
+    },
+    "BOLT-LCB": {
+     "R_block": 0.330010986328125,
+     "R_cu_probe": 0.1650054931640625,
+     "R_cu_total_eta1": 0.04659610848052845,
+     "R_cu_total_eta1_noseed": 0.10258985537291172,
+     "mean_discussion_bits": 41326.4
+    },
+    "q99": {
+     "R_block": 0.2610107421875,
+     "R_cu_probe": 0.13050537109375,
+     "R_cu_total_eta1": 0.03860298344529301,
+     "R_cu_total_eta1_noseed": 0.08278078741129881,
+     "mean_discussion_bits": 38678.15
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.441339111328125,
+     "R_realized_eve": 0.332086181640625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.724896240234375,
+     "R_realized_eve": 0.578778076171875
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.7377432518840968,
+    "H2": 1.4192687849876797
+   },
+   "I_QAQB": {
+    "H1": 0.7897557614233701,
+    "H2": 1.5180882920674845
+   },
+   "I_QAY": {
+    "H1": 0.002829626080333436,
+    "H2": 0.004201588080626095
+   },
+   "h_min": {
+    "H1": 0.9333333118318324,
+    "H2": 1.8939181894220092
+   },
+   "csi_cmi_upper_per_block": 7.040917021872864
+  },
+  {
+   "rho_ab": 0.9975,
+   "rho_ae": 0.35,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.381842041015625,
+     "R_cu_probe": 0.1909210205078125,
+     "R_cu_total_eta1": 0.05067212257068664,
+     "R_cu_total_eta1_noseed": 0.11587095262821552,
+     "mean_discussion_bits": 43287.3
+    },
+    "BOLT-LCB": {
+     "R_block": 0.295782470703125,
+     "R_cu_probe": 0.1478912353515625,
+     "R_cu_total_eta1": 0.0426073979306983,
+     "R_cu_total_eta1_noseed": 0.09264320582806782,
+     "mean_discussion_bits": 40003.8
+    },
+    "q99": {
+     "R_block": 0.2287841796875,
+     "R_cu_probe": 0.11439208984375,
+     "R_cu_total_eta1": 0.03397033334184174,
+     "R_cu_total_eta1_noseed": 0.07257539689532172,
+     "mean_discussion_bits": 38414.15
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.441339111328125,
+     "R_realized_eve": 0.309381103515625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.724896240234375,
+     "R_realized_eve": 0.543377685546875
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.7354511254285435,
+    "H2": 1.415924218560548
+   },
+   "I_QAQB": {
+    "H1": 0.7897557614233701,
+    "H2": 1.5180882920674845
+   },
+   "I_QAY": {
+    "H1": 0.0052745609662570025,
+    "H2": 0.0077691256028999955
+   },
+   "h_min": {
+    "H1": 0.9090241747614297,
+    "H2": 1.856182359649109
+   },
+   "csi_cmi_upper_per_block": 6.992003547506667
+  },
+  {
+   "rho_ab": 0.9975,
+   "rho_ae": 0.4,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.3482421875,
+     "R_cu_probe": 0.17412109375,
+     "R_cu_total_eta1": 0.047418463525780205,
+     "R_cu_total_eta1_noseed": 0.10676148170836827,
+     "mean_discussion_bits": 41963.25
+    },
+    "BOLT-LCB": {
+     "R_block": 0.2840576171875,
+     "R_cu_probe": 0.14202880859375,
+     "R_cu_total_eta1": 0.04169530955328292,
+     "R_cu_total_eta1_noseed": 0.08973712776417389,
+     "mean_discussion_bits": 38866.95
+    },
+    "q99": {
+     "R_block": 0.191766357421875,
+     "R_cu_probe": 0.0958831787109375,
+     "R_cu_total_eta1": 0.028585935966305726,
+     "R_cu_total_eta1_noseed": 0.06084502129629601,
+     "mean_discussion_bits": 38110.9
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.441339111328125,
+     "R_realized_eve": 0.282891845703125
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.724896240234375,
+     "R_realized_eve": 0.502850341796875
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.7318846665491605,
+    "H2": 1.4107720063211033
+   },
+   "I_QAQB": {
+    "H1": 0.7897557614233701,
+    "H2": 1.5180882920674845
+   },
+   "I_QAY": {
+    "H1": 0.009078783770932297,
+    "H2": 0.013264818658307753
+   },
+   "h_min": {
+    "H1": 0.8808067185073928,
+    "H2": 1.8129251533530437
+   },
+   "csi_cmi_upper_per_block": 6.933275198599935
+  },
+  {
+   "rho_ab": 0.9975,
+   "rho_ae": 0.5,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.26046142578125,
+     "R_cu_probe": 0.130230712890625,
+     "R_cu_total_eta1": 0.038200767273192326,
+     "R_cu_total_eta1_noseed": 0.08235845431393302,
+     "mean_discussion_bits": 37259.05
+    },
+    "BOLT-LCB": {
+     "R_block": 0.2362060546875,
+     "R_cu_probe": 0.11810302734375,
+     "R_cu_total_eta1": 0.03506817802035267,
+     "R_cu_total_eta1_noseed": 0.07485737728828694,
+     "mean_discussion_bits": 38474.95
+    },
+    "q99": {
+     "R_block": 0.10504150390625,
+     "R_cu_probe": 0.052520751953125,
+     "R_cu_total_eta1": 0.01588541332064933,
+     "R_cu_total_eta1_noseed": 0.033502116769686494,
+     "mean_discussion_bits": 36352.75
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.441339111328125,
+     "R_realized_eve": 0.218682861328125
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.724896240234375,
+     "R_realized_eve": 0.406170654296875
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.7190124484379201,
+    "H2": 1.3924396017510983
+   },
+   "I_QAQB": {
+    "H1": 0.7897557614233701,
+    "H2": 1.5180882920674845
+   },
+   "I_QAY": {
+    "H1": 0.022809149756255365,
+    "H2": 0.03281938353297975
+   },
+   "h_min": {
+    "H1": 0.8122820025506748,
+    "H2": 1.7098566741639598
+   },
+   "csi_cmi_upper_per_block": 6.7809587596323695
+  },
+  {
+   "rho_ab": 0.9975,
+   "rho_ae": 0.7,
+   "policies": {
+    "BOLT": {
+     "R_block": 0.0430419921875,
+     "R_cu_probe": 0.02152099609375,
+     "R_cu_total_eta1": 0.005970465449634003,
+     "R_cu_total_eta1_noseed": 0.013090879512386045,
+     "mean_discussion_bits": 29534.35
+    },
+    "BOLT-LCB": {
+     "R_block": 0.07117919921875,
+     "R_cu_probe": 0.035589599609375,
+     "R_cu_total_eta1": 0.010699205151943093,
+     "R_cu_total_eta1_noseed": 0.022485967866514096,
+     "mean_discussion_bits": 34462.9
+    },
+    "q99": {
+     "R_block": 0.007861328125,
+     "R_cu_probe": 0.0039306640625,
+     "R_cu_total_eta1": 0.0010978798313057358,
+     "R_cu_total_eta1_noseed": 0.002394342294144311,
+     "mean_discussion_bits": 15936.1
+    }
+   },
+   "conventional": {
+    "H1": {
+     "R_quant": 0.9375,
+     "R_recon_realized": 0.441339111328125,
+     "R_realized_eve": 0.04195556640625
+    },
+    "H2": {
+     "R_quant": 1.875,
+     "R_recon_realized": 0.724896240234375,
+     "R_realized_eve": 0.142010498046875
+    }
+   },
+   "one_way_rate_per_block": {
+    "H1": 0.6474529623512806,
+    "H2": 1.2920168823605798
+   },
+   "I_QAQB": {
+    "H1": 0.7897557614233701,
+    "H2": 1.5180882920674845
+   },
+   "I_QAY": {
+    "H1": 0.09913926824867081,
+    "H2": 0.13993695088286606
+   },
+   "h_min": {
+    "H1": 0.6225730757778976,
+    "H2": 1.4280981127962094
+   },
+   "csi_cmi_upper_per_block": 6.2635642658444155
+  }
+ ]
+}
