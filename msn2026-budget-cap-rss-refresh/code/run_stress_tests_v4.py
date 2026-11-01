@@ -1,10 +1,3 @@
-"""Realistic-channel stress tests of the certificate and of BOLT (revision v4).
-
-Each scenario changes one measurement element; the entropy certificate is
-re-derived for that element (or declared invalid), and BOLT/BOLT-LCB/q99 are
-evaluated with (a) the Rayleigh simulation library of the paper (mismatch) and
-(b) an in-situ library built from qualification sessions of that scenario.
-"""
 from __future__ import annotations
 import json, math
 from concurrent.futures import ProcessPoolExecutor
