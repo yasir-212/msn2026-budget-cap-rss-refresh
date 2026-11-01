@@ -1,4 +1,3 @@
-"""Unit tests for the revision-v4 additions."""
 import math, sys, unittest
 from pathlib import Path
 import numpy as np
