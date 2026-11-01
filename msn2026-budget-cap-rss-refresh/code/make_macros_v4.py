@@ -1,4 +1,3 @@
-"""Generate LaTeX macros and tables for the revised manuscript from frozen v4 JSON."""
 from __future__ import annotations
 import json, math
 from pathlib import Path
