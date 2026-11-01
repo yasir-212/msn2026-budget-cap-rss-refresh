@@ -1,9 +1,3 @@
-"""Create a small synthetic RSS trace and Eve-survey file to try measured_replay.py.
-
-    python examples/make_demo_data.py
-    python code/measured_replay.py examples/demo_trace.csv --survey examples/demo_survey.csv --qual 0.17
-Replace these files by your recorded RSSI traces (same columns) to run on measured data.
-"""
 import csv, math, sys
 from pathlib import Path
 import numpy as np
