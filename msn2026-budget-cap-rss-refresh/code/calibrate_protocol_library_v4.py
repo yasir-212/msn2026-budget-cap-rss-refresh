@@ -1,12 +1,3 @@
-"""Protocol-level calibration library, revision v4.
-
-Same construction and seeds as v1 (calibrate_protocol_library.py) but every
-record additionally stores `required_cap`, the exact smallest hard cap under
-which the run passes all pre-transmission budget checks.  Command-line options
-let ablations rebuild the library for other block/pilot lengths, pilot
-confidence levels or a wider reciprocity grid.  Calibration seeds are disjoint
-from all evaluation seeds (77e6 range vs 55e6 range).
-"""
 from __future__ import annotations
 import argparse, json
 from concurrent.futures import ProcessPoolExecutor
