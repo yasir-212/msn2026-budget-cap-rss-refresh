@@ -1,4 +1,4 @@
-"""Figures for the revised manuscript (v4), generated from frozen JSON results."""
+
 from __future__ import annotations
 import json
 from pathlib import Path
