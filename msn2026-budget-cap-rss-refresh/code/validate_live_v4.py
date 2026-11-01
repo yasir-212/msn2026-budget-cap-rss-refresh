@@ -1,11 +1,3 @@
-"""Live end-to-end sessions for the main grid; checks exact agreement with replay.
-
-Every (rho_AB, rho_AE, trial) cell is run through the full bolt_rss_session
-(pilot, capped distributed Cascade, confirmation, Wegman-Carter authentication,
-Toeplitz privacy amplification with materialized keys) for the main policies.
-The delivered length must equal the replayed outcome in results_main_grid_v4.
-Also records public-communication bits for the channel-use metrics.
-"""
 from __future__ import annotations
 import json, sys
 from concurrent.futures import ProcessPoolExecutor
