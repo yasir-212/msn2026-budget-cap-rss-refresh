@@ -1,12 +1,3 @@
-"""Exact session traces for offline cap replay (revision v4).
-
-For one Alice/Bob realization the live protocol (bolt_rss_session) is fully
-determined by the public seed, the pilot and the committed (H, Lambda).  We run
-one uncapped Cascade per H with exactly the public randomness used by the live
-session and record (z_H, C_H, Lreq_H).  Any policy's outcome then follows
-exactly: accept iff C_H=1 and Lreq_H<=Lambda (validated against live runs in
-validate_live_v4.py).
-"""
 from __future__ import annotations
 
 import numpy as np
