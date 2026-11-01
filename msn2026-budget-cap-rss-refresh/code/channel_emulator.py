@@ -1,17 +1,3 @@
-"""Realistic RSS measurement emulator for stress-testing the certificate (v4).
-
-Generates Alice/Bob normalized RSS powers for N blocks with impairments that a
-deployment would see, each of which touches a different element of the
-certificate:
-  fd_tau   : Doppler x TDD probing delay -> reciprocity loss J0(2 pi fd tau)
-  snr_db   : receiver noise at Alice and Bob (complex AWGN on the channel estimate)
-  fdTs     : Doppler x block spacing -> temporal correlation between blocks
-             (fdTs=None draws independent blocks)
-  rssi_step: RSSI reporting resolution in dB (0 = continuous)
-  bob_gain_db : uncalibrated Bob receiver gain offset (dB)
-  K_db     : Rician K-factor of a LOS component known to everybody (None = Rayleigh)
-Mean measured power is normalized to 1 (the nominal scale certificate).
-"""
 from __future__ import annotations
 import math
 import numpy as np
